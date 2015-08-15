@@ -1,0 +1,33 @@
+{
+  "attrs": {
+    "图案": "徽章", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "欧美,西部,学院,运动"
+  }, 
+  "price_now": "49.00", 
+  "price_origin": "70.00", 
+  "product_comment": "22", 
+  "product_name": "Pro 男士休闲徽章印花T恤", 
+  "product_sale": 65, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1hjsfj_ie2tgntghezdizrvgazdambqhayde_800x1295.jpg", 
+    "1hjsfj_ie2tgnjqmezdizrvgazdambqhayde_800x1246.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezwgntfgjqtcobwgizdambqgyyde_866x1296.jpg", 
+    "7ps_ieytqn3cgzsdmyrvgezdambqmeyde_480x641.jpg", 
+    "upload_ieytcytfmjtdqnlegazdambqmeyde_480x640.jpg", 
+    "7ps_ie2wmobwmqztonbygazdambqhayde_480x640.jpg", 
+    "7ps_ieywkzrwmqztonbygazdambqmeyde_480x640.jpg", 
+    "7ps_ie2tqzrxge3dmmjxgazdambqhayde_480x640.jpg", 
+    "7ps_iezdmnjyge3dmmjxgazdambqmmyde_480x640.jpg", 
+    "upload_iezwmyjwgm3ggmtdgazdambqgyyde_480x640.jpg", 
+    "7ps_ieywiojwha4tmytfgazdambqmeyde_480x360.jpg"
+  ]
+}

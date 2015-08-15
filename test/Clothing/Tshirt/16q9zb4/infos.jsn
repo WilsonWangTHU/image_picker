@@ -1,0 +1,32 @@
+{
+  "attrs": {
+    "图案": "圆点", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "长袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,学院,运动,基本款"
+  }, 
+  "price_now": "79.80", 
+  "price_origin": "114.00", 
+  "product_comment": "5", 
+  "product_name": "衣神前传春季新品男士长袖T恤", 
+  "product_sale": 2, 
+  "product_score": "5", 
+  "shop_images": [
+    "1ihfuv_ieytmnbqhfstqyldmyytambqmeyde_1000x1200.jpg", 
+    "1ihfuv_ieytcmzwhfstqyldmyytambqmeyde_1000x1396.jpg", 
+    "1ihfuv_ie2dgyzrmfstqyldmyytambqgiyde_1000x1557.jpg", 
+    "1ihfuv_ieytemjwmjstqyldmyytambqmeyde_1000x1669.jpg", 
+    "1ihfuv_iezdemtemjstqyldmyytambqmmyde_1000x1097.jpg", 
+    "1ihfuv_iezgmnrymnstqyldmyytambqmmyde_1000x1503.jpg", 
+    "1ihfuv_ie2dcobtmrstqyldmyytambqgiyde_1000x1420.jpg", 
+    "1ihfuv_ie2ggyldmrstqyldmyytambqgiyde_1000x1236.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieztqntfguzgenzsgezdambqgyyde_480x643.jpg", 
+    "7ps_ie2wmodfguzgenzsgezdambqhayde_480x359.jpg"
+  ]
+}

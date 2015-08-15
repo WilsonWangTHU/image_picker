@@ -1,0 +1,29 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "版型": "修身 ", 
+    "细节": "水洗,贴布,拼接,口袋", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,复古,学院,运动,基本款"
+  }, 
+  "price_now": "83.78", 
+  "price_origin": "118.00", 
+  "product_comment": "1", 
+  "product_name": "拼色短袖英伦POLO衫", 
+  "product_sale": 5, 
+  "product_score": "5", 
+  "shop_images": [
+    "1mmte5_iezdamdcgvstembrgezdambqmmyde_790x920.jpg", 
+    "1mmte5_ieztomdfgvstembrgezdambqgyyde_790x1193.jpg", 
+    "1mmte5_ieytgnjsgzstembrgezdambqmeyde_790x871.jpg", 
+    "1mmte5_iezdonrvgzstembrgezdambqmmyde_790x1007.jpg", 
+    "1mmte5_ie2tinddgzstembrgezdambqhayde_790x1282.jpg", 
+    "1mmte5_iezdkytggzstembrgezdambqmmyde_790x1221.jpg", 
+    "1mmte5_iezdmzbrg5stembrgezdambqmmyde_790x1161.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2tamjzgy3tcmrzgizdambqhayde_750x1004.jpg"
+  ]
+}

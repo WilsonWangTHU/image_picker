@@ -1,0 +1,38 @@
+{
+  "attrs": {
+    "图案": "格纹", 
+    "版型": "修身", 
+    "袖长": "七分袖", 
+    "面料材质": "棉麻", 
+    "风格": "日韩,复古,民族,小清新"
+  }, 
+  "price_now": "87.50", 
+  "price_origin": "125.00", 
+  "product_comment": "7", 
+  "product_name": "【潮衣社】复古棉麻七分袖衬衫", 
+  "product_sale": 19, 
+  "product_score": "4.1", 
+  "shop_images": [
+    "1jd7bg_iezwgmlemi4tmobsgazdambqgyyde_750x550.jpg", 
+    "1jd7bg_iezwmmtgmi4tmobsgazdambqgyyde_640x960.jpg", 
+    "1jd7bg_ieytkyrsmm4tmobsgazdambqmeyde_640x960.jpg", 
+    "1jd7bg_ie2gimzwmm4tmobsgazdambqgiyde_650x493.jpg", 
+    "1jd7bg_ieztiyzymm4tmobsgazdambqgyyde_660x490.jpg", 
+    "1jd7bg_iezwgm3cmm4tmobsgazdambqgyyde_640x960.jpg", 
+    "1jd7bg_ie2tim3emm4tmobsgazdambqhayde_640x960.jpg", 
+    "1jd7bg_ie2wcnbqmq4tmobsgazdambqhayde_717x643.jpg", 
+    "1jd7bg_iezwmnrtmq4tmobsgazdambqgyyde_673x497.jpg", 
+    "1jd7bg_iezggnzwmq4tmobsgazdambqmmyde_640x960.jpg", 
+    "1jd7bg_ie2dky3bmq4tmobsgazdambqgiyde_640x960.jpg", 
+    "1jd7bg_iezdamlfmq4tmobsgazdambqmmyde_640x960.jpg", 
+    "1jd7bg_ieztsyrqmu4tmobsgazdambqgyyde_653x497.jpg", 
+    "1jd7bg_iezdgnjumu4tmobsgazdambqmmyde_640x960.jpg", 
+    "1jd7bg_ie2wizbxmu4tmobsgazdambqhayde_640x960.jpg", 
+    "1jd7bg_ie2dgzbqmy4tmobsgazdambqgiyde_640x960.jpg", 
+    "1jd7bg_ie2tqmjtmy4tmobsgazdambqhayde_640x960.jpg", 
+    "1jd7bg_ieztqyrvmy4tmobsgazdambqgyyde_640x960.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieytayzzg43tkzdbgazdambqmeyde_480x640.jpg"
+  ]
+}

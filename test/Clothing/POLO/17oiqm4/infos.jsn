@@ -1,0 +1,32 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "版型": "修身 ", 
+    "细节": "罗纹,印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,欧美,复古,学院,商务"
+  }, 
+  "price_now": "65.10", 
+  "price_origin": "93.00", 
+  "product_comment": "44", 
+  "product_name": "OUY 条纹高档棉质Polo衫", 
+  "product_sale": 127, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hvzyn_ie2tantcmeydcnbrgezdambqhayde_751x748.jpg", 
+    "1hvzyn_ie2dmnzsmuydcnbrgezdambqgiyde_749x750.jpg", 
+    "1hvzyn_ie2tmytcgaytcnbrgezdambqhayde_749x760.jpg", 
+    "1hvzyn_ie2tmmrxgiytcnbrgezdambqhayde_750x750.jpg", 
+    "1hvzyn_ie2wenddguytcnbrgezdambqhayde_751x745.jpg"
+  ], 
+  "user_images": [
+    "1o9db3_iezdimldgi4teolcgezdambqmmyde_480x270.jpg", 
+    "1o9db3_iezdmytdgu4teolcgezdambqmmyde_291x516.jpg", 
+    "1no1bz_ie2tkzlcg5swgobxgezdambqhayde_540x960.jpg", 
+    "upload_iezdeyrxmizwiobtgezdambqmmyde_480x360.jpg", 
+    "gtckj_ieytamlggq4demjtgezdambqmeyde_540x960.jpg", 
+    "1gfzux_ie2toobtmzrtgolbgezdambqhayde_480x640.jpg"
+  ]
+}

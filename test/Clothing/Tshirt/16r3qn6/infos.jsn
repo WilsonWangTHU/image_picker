@@ -1,0 +1,42 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,朋克,嬉皮,学院,街头"
+  }, 
+  "price_now": "69.00", 
+  "price_origin": "86.25", 
+  "product_comment": "14", 
+  "product_name": "小清新韩版修身条纹短袖t恤", 
+  "product_sale": 39, 
+  "product_score": "4.6", 
+  "shop_images": [
+    "1a93hb_iezwgnbxge2dezrqgazdambqgyyde_790x540.jpg", 
+    "1a93hb_ieytinzrgm2dezrqgazdambqmeyde_790x540.jpg", 
+    "1a93hb_ieytmnrvgq2dezrqgazdambqmeyde_790x539.jpg", 
+    "1a93hb_iezggylcgu2dezrqgazdambqmmyde_790x540.jpg", 
+    "1a93hb_ie2gkzbrg42dezrqgazdambqgiyde_790x540.jpg", 
+    "1a93hb_ieywmyrwha2dezrqgazdambqmeyde_790x540.jpg", 
+    "1a93hb_ieztkyzzhe2dezrqgazdambqgyyde_790x539.jpg", 
+    "1a93hb_ieztgzdgmi2dezrqgazdambqgyyde_790x540.jpg", 
+    "1a93hb_ie2gimjrmq2dezrqgazdambqgiyde_790x540.jpg", 
+    "1a93hb_ie2dcyzumu2dezrqgazdambqgiyde_790x540.jpg", 
+    "1a93hb_ieztgmrwmy2dezrqgazdambqgyyde_790x539.jpg", 
+    "1a93hb_ieytinrvga2tezrqgazdambqmeyde_790x540.jpg", 
+    "1a93hb_ieytsyjuge2tezrqgazdambqmeyde_790x540.jpg", 
+    "1a93hb_iezdemddge2tezrqgazdambqmmyde_790x539.jpg", 
+    "1a93hb_ie2tcodcgi2tezrqgazdambqhayde_790x540.jpg"
+  ], 
+  "user_images": [
+    "1l6frp_iezdgojqgrsdmmrugezdambqmmyde_480x647.jpg", 
+    "1l6frp_ie2wgzdfg5sdmmrugezdambqhayde_480x647.jpg", 
+    "upload_ie2tsmbtgq2tgztggazdambqhayde_480x640.jpg", 
+    "7ps_ieytcnbqgvrwcmdggazdambqmeyde_480x640.jpg", 
+    "7ps_ieytiylbmnswcmdggazdambqmeyde_480x640.jpg", 
+    "upload_ie2dozjrmjrgeytdgazdambqgiyde_480x800.jpg"
+  ]
+}

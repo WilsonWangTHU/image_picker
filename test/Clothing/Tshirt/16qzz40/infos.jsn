@@ -1,0 +1,35 @@
+{
+  "attrs": {
+    "图案": "动物,字母", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "55.30", 
+  "price_origin": "79.00", 
+  "product_comment": "48", 
+  "product_name": "立体修身型男士短袖t恤", 
+  "product_sale": 238, 
+  "product_score": "4.4", 
+  "shop_images": [
+    "rfbkx_iezgeztdmyydmnzqgazdambqmmyde_1000x1500.jpg", 
+    "rfbkx_iezdem3cgmytmnzqgazdambqmmyde_1000x1500.jpg", 
+    "rfbkx_iezdezbvguytmnzqgazdambqmmyde_1000x1500.jpg", 
+    "rfbkx_ie2gizlggyytmnzqgazdambqgiyde_1000x1500.jpg", 
+    "rfbkx_ie2gim3emuztmnzqgazdambqgiyde_1000x1500.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezgmnjqhezdan3ggezdambqmmyde_480x640.jpg", 
+    "7ps_ieytonzqhezdan3ggezdambqmeyde_480x640.jpg", 
+    "1nymt2_iezgmzjtmrrgiy3dgezdambqmmyde_480x480.jpg", 
+    "1nymt2_iezdqmbtg5rwiy3dgezdambqmmyde_480x647.jpg", 
+    "upload_ie2dcmtdmu4dkzrqgezdambqgiyde_480x852.jpg", 
+    "upload_iezwkmbymm4dkzrqgezdambqgyyde_480x852.jpg", 
+    "upload_ieytqojvha4dkzrqgezdambqmeyde_480x852.jpg", 
+    "1jxw0j_iezggyzvha4gkobvgizdambqmmyde_480x853.jpg"
+  ]
+}

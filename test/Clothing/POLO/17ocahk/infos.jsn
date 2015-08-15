@@ -1,0 +1,38 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "版型": "修身 ", 
+    "细节": "拼接", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "风格": "日韩,学院,街头"
+  }, 
+  "price_now": "72.00", 
+  "price_origin": "90.00", 
+  "product_comment": "45", 
+  "product_name": "宅一 条纹POLO衫", 
+  "product_sale": 265, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "1meubp_iezwcmzrgu2wmnbqgezdambqgyyde_660x990.jpg", 
+    "1meubp_ie2gmojsgm3wmnbqgezdambqgiyde_1000x1500.jpg", 
+    "1meubp_ieytamdfmq4wmnbqgezdambqmeyde_1000x1500.jpg", 
+    "1meubp_iezwmodggbrgmnbqgezdambqgyyde_660x990.jpg", 
+    "1meubp_ieytmojwgeytanjqgezdambqmeyde_753x651.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2dgmrxmqytantggezdambqgiyde_480x641.jpg", 
+    "1oeil2_ie2dkytgha2tqmtfgezdambqgiyde_480x640.jpg", 
+    "7ps_iezgcnjwgu3geylbgezdambqmmyde_480x640.jpg", 
+    "7ps_iezwknzwgu3geylbgezdambqgyyde_480x640.jpg", 
+    "7ps_ie2wem3fg43tantbgezdambqhayde_480x640.jpg", 
+    "7ps_iezdcyrrgy3tantbgezdambqmmyde_480x640.jpg", 
+    "1oeil2_ie2tin3cmuydqmdggezdambqhayde_480x853.jpg", 
+    "1oeil2_ie2dqyztmizdqmdggezdambqgiyde_480x853.jpg", 
+    "7ps_ieztmzbsg5tdcytggezdambqgyyde_480x640.jpg", 
+    "7ps_ie2wmzrvmy4tenbvgizdambqhayde_480x854.jpg", 
+    "7ps_iezdsmdcmrrtgnjzgezdambqmmyde_480x641.jpg", 
+    "1hn8u1_ie2tszlgha3wknjxgezdambqhayde_480x720.jpg", 
+    "1jmfuq_iezdiztdme3wgnlfgezdambqmmyde_480x640.jpg"
+  ]
+}

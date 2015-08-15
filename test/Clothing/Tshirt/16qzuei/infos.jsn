@@ -1,0 +1,29 @@
+{
+  "attrs": {
+    "图案": "字母", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,朋克,嬉皮,学院,街头"
+  }, 
+  "price_now": "69.00", 
+  "price_origin": "86.25", 
+  "product_comment": "6", 
+  "product_name": "潮牌字母印花男士t恤", 
+  "product_sale": 10, 
+  "product_score": "4.3", 
+  "shop_images": [
+    "1a93hb_iezdsmjxgbsdcnzqgazdambqmmyde_750x1296.jpg", 
+    "1a93hb_ie2deobxgbsdcnzqgazdambqgiyde_750x1420.jpg", 
+    "1a93hb_iezdemrygfsdcnzqgazdambqmmyde_750x1310.jpg", 
+    "1a93hb_iezwmobxgfsdcnzqgazdambqgyyde_750x1310.jpg", 
+    "1a93hb_ie2tmn3fgfsdcnzqgazdambqhayde_750x1409.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezdgnddmjrtmytggezdambqmmyde_480x640.jpg", 
+    "7ps_iezgcntdmjrtmytggezdambqmmyde_480x640.jpg"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "attrs": {
+    "图案": "鲨鱼", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "水洗,印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,运动,民族,街头,基本款"
+  }, 
+  "price_now": "49.50", 
+  "price_origin": "90.00", 
+  "product_comment": "33", 
+  "product_name": "韩风style夏季新款男士短袖T恤", 
+  "product_sale": 100, 
+  "product_score": "5", 
+  "shop_images": [
+    "1iqlay_iezdsobyheztiyzqgazdambqmmyde_1000x1149.jpg", 
+    "1iqlay_ie2wizjwmmztiyzqgazdambqhayde_1000x1194.jpg", 
+    "1iqlay_ieytkzjxga2diyzqgazdambqmeyde_1000x1211.jpg", 
+    "1iqlay_iezdmm3dgq2diyzqgazdambqmmyde_1000x1191.jpg", 
+    "1iqlay_ieywmzlghe2diyzqgazdambqmeyde_1000x1009.jpg", 
+    "1iqlay_ieytgylbmm2diyzqgazdambqmeyde_1000x1180.jpg", 
+    "1iqlay_iezgiyrvmu2diyzqgazdambqmmyde_1000x1214.jpg", 
+    "1iqlay_ieytcolfga2tiyzqgazdambqmeyde_1000x1208.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2gen3cmi3tizjtgezdambqgiyde_480x640.jpg", 
+    "upload_iezdeobsguygeyjygazdambqmmyde_480x640.jpg", 
+    "upload_ie2wenzshaygeyjygazdambqhayde_480x640.jpg", 
+    "34wz1_ie2doyzsgzrwemzvgezdambqgiyde_480x853.jpg", 
+    "upload_ie2tan3dmmytmnrugazdambqhayde_480x270.jpeg", 
+    "upload_ie2demjzgizdmnrugazdambqgiyde_480x270.jpeg", 
+    "upload_ieztgmdggyzgezrygazdambqgyyde_480x270.jpg"
+  ]
+}

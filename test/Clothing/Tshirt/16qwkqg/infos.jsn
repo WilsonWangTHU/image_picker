@@ -1,0 +1,46 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "撞色", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "翻领 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "99.00", 
+  "price_origin": "132.00", 
+  "product_comment": "332", 
+  "product_name": "韩风夏装新款男士条纹短袖T恤", 
+  "product_sale": 857, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1hhr7x_ie2wgmtdha4dkzlgmyytambqhayde_790x459.jpg", 
+    "1hhr7x_ie2gcztfmq4dkzlgmyytambqgiyde_790x547.jpg", 
+    "1hhr7x_iezdmytdga4tkzlgmyytambqmmyde_790x985.jpg", 
+    "1hhr7x_ie2deobwmiztonzrgazdambqgiyde_790x649.jpg", 
+    "1hhr7x_ie2gcmjxmiztonzrgazdambqgiyde_790x932.jpg", 
+    "1hhr7x_ieztgmjtmiztonzrgazdambqgyyde_790x435.jpg", 
+    "1hhr7x_iezdinrqmuyggyrtgazdambqmmyde_790x644.jpg", 
+    "1hhr7x_ie2gkzbqmuyggyrtgazdambqgiyde_790x438.jpg", 
+    "1hhr7x_ie2giobqmuyggyrtgazdambqgiyde_790x942.jpg", 
+    "1hhr7x_ieywgmlbmyyggyrtgazdambqmeyde_790x601.jpg"
+  ], 
+  "user_images": [
+    "t12hh_ieytozbtgnrdayrwgezdambqmeyde_480x853.jpg", 
+    "7ps_iezdoojwmqywgobvgezdambqmmyde_480x640.jpg", 
+    "1i5enx_ie2doylegq4denrxgezdambqgiyde_480x360.jpg", 
+    "upload_ie2tgmjug5sdiojsgezdambqhayde_480x853.jpg", 
+    "upload_ieytgmjwgeytszrqgezdambqmeyde_480x640.jpg", 
+    "7ps_ieztcmrsgjtgmmddgazdambqgyyde_480x640.jpg", 
+    "7ps_ie2wcodegu3wmzlbgazdambqhayde_480x640.jpg", 
+    "7ps_iezdam3bmmydqyjygazdambqmmyde_480x480.jpg", 
+    "7ps_iezdmndfhaygeyrtgazdambqmmyde_480x854.jpg", 
+    "upload_ie2tamjxmjsgkzbsgezdambqhayde_480x853.jpg", 
+    "upload_ieztondbhbrwimzzgazdambqgyyde_480x640.jpg", 
+    "7ps_iezgmodghbrweyrtgazdambqmmyde_480x641.jpg", 
+    "7ps_ie2wenrqgm4tenjrgezdambqhayde_480x640.jpg", 
+    "7ps_ieztenjrgm4tenjrgezdambqgyyde_480x640.jpg"
+  ]
+}

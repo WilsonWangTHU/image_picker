@@ -1,0 +1,39 @@
+{
+  "attrs": {
+    "材质": "棉 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 "
+  }, 
+  "price_now": "74.20", 
+  "price_origin": "106.00", 
+  "product_comment": "1", 
+  "product_name": "复古皇冠圆领印花T恤", 
+  "product_sale": 17, 
+  "product_score": "1.3", 
+  "shop_images": [
+    "11w0mt_ie2dmmjyha3wemzsgezdambqgiyde_750x864.jpg", 
+    "11w0mt_ie2tknzyha3wemzsgezdambqhayde_750x684.jpg", 
+    "11w0mt_ie2dombzha3wemzsgezdambqgiyde_750x732.jpg", 
+    "11w0mt_ie2diyrzha3wemzsgezdambqgiyde_750x624.jpg", 
+    "11w0mt_ie2tcy3cha3wemzsgezdambqhayde_750x912.jpg", 
+    "11w0mt_ie2dcy3eha3wemzsgezdambqgiyde_750x684.jpg", 
+    "11w0mt_ieztezleha3wemzsgezdambqgyyde_750x816.jpg", 
+    "11w0mt_ieywinbqhe3wemzsgezdambqmeyde_750x804.jpg", 
+    "11w0mt_iezgmnzqhe3wemzsgezdambqmmyde_750x756.jpg", 
+    "11w0mt_ie2tqnbvgu4wemzsgezdambqhayde_750x815.jpg", 
+    "11w0mt_ieztcmzwgu4wemzsgezdambqgyyde_750x752.jpg", 
+    "11w0mt_ie2dgnjygu4wemzsgezdambqgiyde_750x735.jpg", 
+    "11w0mt_ie2dczrzgu4wemzsgezdambqgiyde_750x639.jpg", 
+    "11w0mt_ieztcmldgu4wemzsgezdambqgyyde_750x880.jpg", 
+    "11w0mt_iezgmmlggu4wemzsgezdambqmmyde_750x719.jpg", 
+    "11w0mt_iezdindggu4wemzsgezdambqmmyde_750x768.jpg", 
+    "11w0mt_ie2tqyrsgy4wemzsgezdambqhayde_750x703.jpg", 
+    "11w0mt_iezdmmjtgy4wemzsgezdambqmmyde_750x767.jpg", 
+    "11w0mt_ie2dcobtgy4wemzsgezdambqgiyde_750x751.jpg"
+  ], 
+  "user_images": [
+    "13mn2y_iezweojvmjtgimbrgizdambqgyyde_418x387.jpg", 
+    "13mn2y_ie2tmzlfhftgimbrgizdambqhayde_417x393.jpg", 
+    "13mn2y_iezdentfmvswimbrgizdambqmmyde_419x385.jpg"
+  ]
+}

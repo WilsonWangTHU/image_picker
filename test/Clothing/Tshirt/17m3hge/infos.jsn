@@ -1,0 +1,39 @@
+{
+  "attrs": {
+    "图案": "字母,胡子,帽子", 
+    "材质": "棉 ", 
+    "版型": "宽松 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,运动,街头,基本款,大码"
+  }, 
+  "price_now": "69.30", 
+  "price_origin": "99.00", 
+  "product_comment": "4", 
+  "product_name": "【时尚坊】男士宽松短袖T恤", 
+  "product_sale": 7, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "1iy5ur_ieywkmbxg43tkmjvgazdambqmeyde_640x630.jpg", 
+    "1iy5ur_iezdayrrha3tkmjvgazdambqmmyde_640x640.jpg", 
+    "1iy5ur_ieytkzrsgjrdkmjvgazdambqmeyde_640x635.jpg", 
+    "1iy5ur_ie2gkntggjrdkmjvgazdambqgiyde_640x643.jpg", 
+    "1iy5ur_ie2gmzbvgrrdkmjvgazdambqgiyde_640x633.jpg", 
+    "1iy5ur_iezwkyrygvrdkmjvgazdambqgyyde_640x648.jpg", 
+    "1iy5ur_ieztkzjumfrdkmjvgazdambqgyyde_640x648.jpg", 
+    "1iy5ur_ieywkmdgmfrdkmjvgazdambqmeyde_640x640.jpg", 
+    "1iy5ur_ie2gcntdmjrdkmjvgazdambqgiyde_640x648.jpg", 
+    "1iy5ur_iezdmyrzmnrdkmjvgazdambqmmyde_640x637.jpg", 
+    "1iy5ur_ie2tcy3fmrrdkmjvgazdambqhayde_640x524.jpg", 
+    "1iy5ur_iezgcyjwmzrdkmjvgazdambqmmyde_640x640.jpg", 
+    "1iy5ur_ie2tmmldgfrtkmjvgazdambqhayde_640x640.jpg", 
+    "1iy5ur_ie2dgodggjrtkmjvgazdambqgiyde_640x631.jpg", 
+    "1iy5ur_ie2tsobugzrtkmjvgazdambqhayde_640x655.jpg", 
+    "1iy5ur_ie2dinjsmfrtkmjvgazdambqgiyde_640x640.jpg"
+  ], 
+  "user_images": [
+    "1jv8hn_ieyweyzumzstsmzxgazdambqmeyde_200x200.jpg"
+  ]
+}

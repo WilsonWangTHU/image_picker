@@ -1,0 +1,39 @@
+{
+  "attrs": {
+    "图案": "字母", 
+    "版型": "修身", 
+    "细节": "撞色", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "面料材质": "棉", 
+    "风格": "街头"
+  }, 
+  "price_now": "59.50", 
+  "price_origin": "85.00", 
+  "product_comment": "4", 
+  "product_name": "2015夏季男士韩版翻领短袖polo衫", 
+  "product_sale": 15, 
+  "product_score": "4.1", 
+  "shop_images": [
+    "1j1qjc_ie2timzrha4ginbygazdambqhayde_750x878.jpg", 
+    "1j1qjc_ieztgmzsha4ginbygazdambqgyyde_750x883.jpg", 
+    "1j1qjc_iezwgnrsha4ginbygazdambqgyyde_750x877.jpg", 
+    "1j1qjc_ieytqolbhe4ginbygazdambqmeyde_750x1050.jpg", 
+    "1j1qjc_ieywimlche4ginbygazdambqmeyde_750x839.jpg", 
+    "1j1qjc_iezgkzdche4ginbygazdambqmmyde_750x886.jpg", 
+    "1j1qjc_ie2dgyldhe4ginbygazdambqgiyde_750x926.jpg", 
+    "1j1qjc_ieytiyzsmq4ginbygazdambqmeyde_750x550.jpg", 
+    "1j1qjc_ieywcmjvmq4ginbygazdambqmeyde_750x563.jpg", 
+    "1j1qjc_ieyweyjvmq4ginbygazdambqmeyde_750x849.jpg", 
+    "1j1qjc_ieytcmbwmq4ginbygazdambqmeyde_750x839.jpg", 
+    "1j1qjc_ieytkyjymq4ginbygazdambqmeyde_750x544.jpg", 
+    "1j1qjc_ie2dkobxmzqwinbygazdambqgiyde_790x714.jpg", 
+    "1j1qjc_ie2gimbzmzqwinbygazdambqgiyde_790x608.jpg", 
+    "1j1qjc_ie2dmmtbmzqwinbygazdambqgiyde_790x888.jpg", 
+    "1j1qjc_ieytoodcmzqwinbygazdambqmeyde_790x890.jpg"
+  ], 
+  "user_images": [
+    "1jlnlm_iezdembtgyztkyzugezdambqmmyde_480x853.jpg", 
+    "1jlnlm_ieztayjrmvtdmyzugezdambqgyyde_480x480.jpg"
+  ]
+}

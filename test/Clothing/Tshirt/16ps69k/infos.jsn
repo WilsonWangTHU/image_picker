@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "图案": "粗条纹", 
+    "材质": "棉 ", 
+    "细节": "印花", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,基本款"
+  }, 
+  "price_now": "48.30", 
+  "price_origin": "69.00", 
+  "product_comment": "45", 
+  "product_name": "简单百搭款男士短袖t恤", 
+  "product_sale": 102, 
+  "product_score": "4.6", 
+  "shop_images": [
+    "rfbkx_ie2dcobwha2ggzjumyytambqgiyde_1000x1500.jpg", 
+    "rfbkx_iezdknbtmi2ggzjumyytambqmmyde_1000x1500.jpg", 
+    "rfbkx_iezteyzzmm2ggzjumyytambqgyyde_1000x1500.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2dqmjumiytsmzugezdambqgiyde_480x640.jpg", 
+    "7ps_iezdsnjumiytsmzugezdambqmmyde_480x854.jpg", 
+    "upload_ieywiyldmfrwgzdbgazdambqmeyde_480x854.jpg", 
+    "upload_ieztentbmrsggzdbgazdambqgyyde_480x640.jpg", 
+    "7ps_ie2domjwgmywgylcmyytambqgiyde_480x641.jpg"
+  ]
+}

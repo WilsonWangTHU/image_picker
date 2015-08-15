@@ -1,0 +1,25 @@
+{
+  "attrs": {
+    "图案": "几何,三角形", 
+    "材质": "棉 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,复古,学院,街头"
+  }, 
+  "price_now": "49.00", 
+  "price_origin": "70.00", 
+  "product_comment": "13", 
+  "product_name": "OUY男装 三角印花短袖T恤", 
+  "product_sale": 23, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hvzyn_ieztqnbsmu2gmntbgazdambqgyyde_640x986.jpg", 
+    "1hvzyn_iezwcmlgmy2gmntbgazdambqgyyde_640x960.jpg", 
+    "1hvzyn_iezdcmrwgi2wmntbgazdambqmmyde_640x984.jpg", 
+    "1hvzyn_ie2tkmdfgm2wmntbgazdambqhayde_640x825.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezgemtegrstkoddgezdambqmmyde_480x854.jpg", 
+    "7ps_ieyteojtgfqtkyjxgezdambqmeyde_480x640.jpg"
+  ]
+}

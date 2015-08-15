@@ -1,0 +1,36 @@
+{
+  "attrs": {
+    "图案": "几何", 
+    "版型": "修身", 
+    "细节": "拼接,贴袋", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "面料材质": "棉", 
+    "风格": "日韩,学院"
+  }, 
+  "price_now": "84.99", 
+  "price_origin": "121.42", 
+  "product_comment": "10", 
+  "product_name": "造梦先生 莱卡棉短袖polo衫", 
+  "product_sale": 31, 
+  "product_score": "4.2", 
+  "shop_images": [
+    "1k43cw_ieytqnjymnsdgyjygazdambqmeyde_750x818.jpg", 
+    "1k43cw_ie2wcy3fmnsdgyjygazdambqhayde_750x759.jpg", 
+    "1k43cw_iezgmmrtmrsdgyjygazdambqmmyde_750x710.jpg", 
+    "1k43cw_iezwgobzmrsdgyjygazdambqgyyde_750x714.jpg", 
+    "1k43cw_ieywgyrqmvsdgyjygazdambqmeyde_750x818.jpg", 
+    "1k43cw_ie2wkm3bmvsdgyjygazdambqhayde_750x683.jpg", 
+    "1k43cw_iezgcn3cmvsdgyjygazdambqmmyde_750x750.jpg", 
+    "1k43cw_ie2dgmzqmzsdgyjygazdambqgiyde_750x800.jpg", 
+    "1k43cw_ieztknrwmzsdgyjygazdambqgyyde_750x723.jpg", 
+    "1k43cw_ie2daolemzsdgyjygazdambqgiyde_750x737.jpg", 
+    "1k43cw_ie2dkojrgbstgyjygazdambqgiyde_750x782.jpg", 
+    "1k43cw_iezwcyjugbstgyjygazdambqgyyde_750x710.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2tanrrha2tgn3egazdambqhayde_480x360.jpg", 
+    "upload_ieztazjwmrrgenzrgezdambqgyyde_480x640.jpg", 
+    "upload_ie2doyrwgrrwenzrgezdambqgiyde_480x640.jpg"
+  ]
+}

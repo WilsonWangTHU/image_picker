@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "图案": "纯色", 
+    "版型": "修身 ", 
+    "细节": "水洗,贴布,拼接,口袋", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "风格": "日韩,复古,学院,运动,基本款"
+  }, 
+  "price_now": "83.78", 
+  "price_origin": "118.00", 
+  "product_comment": "4", 
+  "product_name": "新品短袖英伦POLO衫", 
+  "product_sale": 13, 
+  "product_score": "4.4", 
+  "shop_images": [
+    "1mmte5_ieywknrwmfqtgmbrgezdambqmeyde_790x920.jpg", 
+    "1mmte5_iezwmnldmfqtgmbrgezdambqgyyde_790x892.jpg", 
+    "1mmte5_ieytaoldmfqtgmbrgezdambqmeyde_790x1186.jpg", 
+    "1mmte5_iezdoy3fmfqtgmbrgezdambqmmyde_790x1011.jpg", 
+    "1mmte5_ieztgmrsmjqtgmbrgezdambqgyyde_790x820.jpg", 
+    "1mmte5_ie2wmyztmjqtgmbrgezdambqhayde_790x1200.jpg", 
+    "1mmte5_ieywcmrymjqtgmbrgezdambqmeyde_790x1117.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieytinjzgy3tcmrzgizdambqmeyde_750x1004.jpg"
+  ]
+}

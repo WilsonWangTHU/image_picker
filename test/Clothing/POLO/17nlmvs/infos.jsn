@@ -1,0 +1,43 @@
+{
+  "attrs": {
+    "图案": "细格纹", 
+    "版型": "修身 ", 
+    "细节": "口袋", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,复古,学院,街头"
+  }, 
+  "price_now": "78.40", 
+  "price_origin": "112.00", 
+  "product_comment": "88", 
+  "product_name": "【逸迈】韩风时尚休闲短袖POLO衫", 
+  "product_sale": 451, 
+  "product_score": "4.6", 
+  "shop_images": [
+    "1j5ho0_ie2wkm3gmu4wkmtdgazdambqhayde_790x920.jpg", 
+    "1j5ho0_iezgcmbvmy4wkmtdgazdambqmmyde_790x628.jpg", 
+    "1j5ho0_ie2dknrymy4wkmtdgazdambqgiyde_790x1193.jpg", 
+    "1j5ho0_ie2tsmdfgbqwkmtdgazdambqhayde_790x871.jpg", 
+    "1j5ho0_ieytenjqgfqwkmtdgazdambqmeyde_790x1007.jpg", 
+    "1j5ho0_ieywgmbtgfqwkmtdgazdambqmeyde_790x1282.jpg", 
+    "1j5ho0_iezdmztbgjqwkmtdgazdambqmmyde_790x1221.jpg", 
+    "1j5ho0_ieytaobsgnqwkmtdgazdambqmeyde_790x1161.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2wkmrxgjstomrqgizdambqhayde_480x640.jpg", 
+    "upload_ie2wmnrxmzswgmbxgezdambqhayde_480x853.jpg", 
+    "upload_ie2wgzbzgi2doojsgezdambqhayde_480x355.jpg", 
+    "upload_ieytmzlcmi2gkzjrgezdambqmeyde_480x640.jpg", 
+    "upload_iezdcylcmy4ggmdfgazdambqmmyde_480x415.jpg", 
+    "upload_ie2wimbsge4wgmdfgazdambqhayde_480x442.jpg", 
+    "1ms1yn_ie2tendcga4wimzygezdambqhayde_3264x2448.jpg", 
+    "1ms1yn_ieztozbumi4gimzygezdambqgyyde_3264x2448.jpg", 
+    "upload_ie2dinrtg44tkndfgazdambqgiyde_480x640.jpg", 
+    "upload_ie2wen3fmy4tkndfgazdambqhayde_480x640.jpg", 
+    "7ps_ieytenrwmiyden3fgezdambqmeyde_480x658.jpg", 
+    "1ja5mv_ieytqmjrmrqtqmzugezdambqmeyde_480x852.jpg", 
+    "upload_ieytoyjxg5sdsnbrgezdambqmeyde_480x640.jpg", 
+    "7ps_iezgcytfgyzwkmjxgizdambqmmyde_1080x1440.jpg"
+  ]
+}

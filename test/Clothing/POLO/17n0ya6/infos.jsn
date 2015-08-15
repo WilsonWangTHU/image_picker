@@ -1,0 +1,36 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 "
+  }, 
+  "price_now": "89.60", 
+  "price_origin": "128.00", 
+  "product_comment": "5", 
+  "product_name": "店主风 修身男士笑脸绣花POLO衫", 
+  "product_sale": 13, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "1jkhr4_ieytcyldmy3tcnjzgazdambqmeyde_640x960.jpg", 
+    "1jkhr4_ieztkobuge4dcnjzgazdambqgyyde_640x960.jpg", 
+    "1jkhr4_iezwmmbug44dcnjzgazdambqgyyde_640x960.jpg", 
+    "1jkhr4_ieywknlbg44dcnjzgazdambqmeyde_640x960.jpg", 
+    "1jkhr4_ie2dsylfg44dcnjzgazdambqgiyde_640x960.jpg", 
+    "1jkhr4_ieytcmlgg44dcnjzgazdambqmeyde_640x960.jpg", 
+    "1jkhr4_iezdcyrsha4dcnjzgazdambqmmyde_960x640.jpg", 
+    "1jkhr4_ie2tozjtha4dcnjzgazdambqhayde_960x640.jpg", 
+    "1jkhr4_ieztqmryha4dcnjzgazdambqgyyde_960x640.jpg", 
+    "1jkhr4_ie2wcolcha4dcnjzgazdambqhayde_640x960.jpg", 
+    "1jkhr4_iezdaytgha4dcnjzgazdambqmmyde_640x960.jpg", 
+    "1jkhr4_ie2ginbthe4dcnjzgazdambqgiyde_640x960.jpg", 
+    "1jkhr4_ieytkmbwhe4dcnjzgazdambqmeyde_640x960.jpg", 
+    "1jkhr4_ieytonzzhe4dcnjzgazdambqmeyde_640x960.jpg", 
+    "1jkhr4_ieytmztche4dcnjzgazdambqmeyde_640x960.jpg", 
+    "1jkhr4_ieztgnlfhe4dcnjzgazdambqgyyde_960x640.jpg", 
+    "1jkhr4_ie2gcnjrme4dcnjzgazdambqgiyde_960x640.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezdmnjsmrrtcobxgizdambqmmyde_528x702.jpg", 
+    "7ps_ieywgnzsmrrtcobxgizdambqmeyde_528x702.jpg"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "attrs": {
+    "图案": "十字", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,欧美,学院,街头"
+  }, 
+  "price_now": "64.00", 
+  "price_origin": "128.00", 
+  "product_comment": "42", 
+  "product_name": "翻领韩版英伦新款Polo衫", 
+  "product_sale": 115, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1m2k04_iezggzlgguywkmlegazdambqmmyde_750x1125.jpg", 
+    "1m2k04_ie2dozbvgyywkmlegazdambqgiyde_750x1125.jpg", 
+    "1m2k04_iezdsmzygyywkmlegazdambqmmyde_750x500.jpg", 
+    "1m2k04_ie2gmm3bgyywkmlegazdambqgiyde_750x500.jpg", 
+    "1m2k04_ie2weyjrg4ywkmlegazdambqhayde_750x1125.jpg", 
+    "1m2k04_ie2toyjsg4ywkmlegazdambqhayde_750x500.jpg", 
+    "1m2k04_iezwimzwg4ywkmlegazdambqgyyde_750x750.jpg", 
+    "1m2k04_ieztkobwg4ywkmlegazdambqgyyde_750x750.jpg", 
+    "1m2k04_ie2tim3fg4ywkmlegazdambqhayde_750x1125.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieywcztbge4genrxgizdambqmeyde_720x960.jpg", 
+    "7ps_iezdomtcge4genrxgizdambqmmyde_720x960.jpg"
+  ]
+}

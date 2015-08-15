@@ -1,0 +1,37 @@
+{
+  "attrs": {
+    "图案": "纯色", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "口袋", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "V领 ", 
+    "风格": "日韩,基本款"
+  }, 
+  "price_now": "49.00", 
+  "price_origin": "70.00", 
+  "product_comment": "7", 
+  "product_name": "【时尚坊】男士V领短袖T恤", 
+  "product_sale": 10, 
+  "product_score": "5", 
+  "shop_images": [
+    "1iy5ur_iezdcmlggqytiojqgazdambqmmyde_640x724.jpg", 
+    "1iy5ur_iezdmndggyytiojqgazdambqmmyde_640x737.jpg", 
+    "1iy5ur_iezdsmbwmiytiojqgazdambqmmyde_640x765.jpg", 
+    "1iy5ur_ieytknbrmuytiojqgazdambqmeyde_640x400.jpg", 
+    "1iy5ur_iezdszbvgezdiojqgazdambqmmyde_640x815.jpg", 
+    "1iy5ur_iezgcodfgmzdiojqgazdambqmmyde_640x787.jpg", 
+    "1iy5ur_iezgenjumi2tiojqgazdambqmmyde_640x404.jpg", 
+    "1iy5ur_iezdgmldmq2tiojqgazdambqmmyde_640x816.jpg", 
+    "1iy5ur_ie2wcmtgga3diojqgazdambqhayde_640x795.jpg", 
+    "1iy5ur_ie2windfgi3diojqgazdambqhayde_640x390.jpg", 
+    "1iy5ur_ieytomldgu3diojqgazdambqmeyde_640x776.jpg", 
+    "1iy5ur_ieztkyzrme3diojqgazdambqgyyde_640x813.jpg", 
+    "1iy5ur_ie2wemldmm3diojqgazdambqhayde_640x818.jpg", 
+    "1iy5ur_ieztazbqmy3diojqgazdambqgyyde_640x440.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezdgnzumi2gkyjxgazdambqmmyde_480x640.jpg"
+  ]
+}

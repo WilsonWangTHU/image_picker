@@ -1,0 +1,50 @@
+{
+  "attrs": {
+    "图案": "粗条纹", 
+    "版型": "修身 ", 
+    "细节": "水洗", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "朋克,复古,学院,运动,商务"
+  }, 
+  "price_now": "63.00", 
+  "price_origin": "105.00", 
+  "product_comment": "167", 
+  "product_name": "OMG 夏季男士短袖条纹POLO衫", 
+  "product_sale": 921, 
+  "product_score": "4.6", 
+  "shop_images": [
+    "1jot4c_ieytkylemfswkzddgazdambqmeyde_790x642.jpg", 
+    "1jot4c_ieytomzqmjswkzddgazdambqmeyde_790x527.jpg", 
+    "1jot4c_ie2taobvmjswkzddgazdambqhayde_790x557.jpg", 
+    "1jot4c_ie2tizjxmjswkzddgazdambqhayde_790x680.jpg", 
+    "1jot4c_ie2gkzlfmjswkzddgazdambqgiyde_790x617.jpg", 
+    "1jot4c_ie2tizjrmnswkzddgazdambqhayde_790x584.jpg", 
+    "1jot4c_ieztknbvmnswkzddgazdambqgyyde_790x612.jpg", 
+    "1jot4c_ie2dkojxmnswkzddgazdambqgiyde_790x600.jpg"
+  ], 
+  "user_images": [
+    "1dlq0q_iezdsmzxgmzdeodggezdambqmmyde_480x639.jpg", 
+    "iklyc_ie2doyjxgi3tontfgezdambqgiyde_480x648.jpg", 
+    "1jo6km_iezggyldha3weylbgezdambqmmyde_480x647.jpg", 
+    "1jo6km_ie2wcmzzgi4geylbgezdambqhayde_480x647.jpg", 
+    "1jo6km_ieztmmdgge4weylbgezdambqgyyde_480x647.jpg", 
+    "132n9e_ie2wgyjqmfswgojygezdambqhayde_480x640.jpg", 
+    "7ps_ieytemrxgy2genbtgezdambqmeyde_480x438.jpg", 
+    "upload_ieywkmbrgztdayrqgezdambqmeyde_480x359.jpg", 
+    "7ps_ie2gkzdegyzgcnjqgizdambqgiyde_480x640.jpg", 
+    "7ps_iezdeyrymuztczdggezdambqmmyde_480x640.jpg", 
+    "7ps_iezwgyztgazdomztgizdambqgyyde_640x854.jpg", 
+    "1fnewd_ie2gey3cgrsgcmtggezdambqgiyde_480x853.jpg", 
+    "1o1mfl_ieytgojqgm2gim3bgezdambqmeyde_480x640.jpg", 
+    "7ps_iezdqnjtga2tgzrygezdambqmmyde_480x480.jpg", 
+    "7ps_ieztiyztga2tgzrygezdambqgyyde_480x480.jpg", 
+    "198he7_iezwmojzhaytkzjtgezdambqgyyde_480x853.jpg", 
+    "198he7_ieytgzrqmqytkzjtgezdambqmeyde_480x853.jpg", 
+    "upload_iezdkmbrmnsdeyjsgezdambqmmyde_480x640.jpg", 
+    "upload_iezdcytdguzdgyjsgezdambqmmyde_480x360.jpg", 
+    "7ps_ie2tmnrtge2tqnbtgizdambqhayde_480x640.jpg", 
+    "7ps_ie2tmylcgqzdgntggezdambqhayde_480x641.jpg"
+  ]
+}

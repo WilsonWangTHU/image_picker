@@ -1,0 +1,38 @@
+{
+  "attrs": {
+    "图案": "拼色", 
+    "版型": "修身 ", 
+    "细节": "撞色", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,欧美,朋克,嬉皮,复古,学院,民族,街头"
+  }, 
+  "price_now": "67.20", 
+  "price_origin": "112.00", 
+  "product_comment": "51", 
+  "product_name": "领子异色小翻领男士POLO衫", 
+  "product_sale": 253, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1j1pgb_ie2tomdgmq3gcnzrgezdambqhayde_640x960.jpg", 
+    "1j1pgb_ie2dsnjrmm4wcnzrgezdambqgiyde_640x960.jpg", 
+    "1j1pgb_ie2dmmrsmm4wcnzrgezdambqgiyde_640x960.jpg", 
+    "1j1pgb_ie2gczjtmm4wcnzrgezdambqgiyde_640x960.jpg", 
+    "1j1pgb_ie2dqztbmm4wcnzrgezdambqgiyde_640x960.jpg", 
+    "1j1pgb_ie2wmndbmm4wcnzrgezdambqhayde_640x960.jpg", 
+    "1j1pgb_ie2dmndcmm4wcnzrgezdambqgiyde_640x960.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2wkmzsmu2wembzgizdambqhayde_640x618.jpg", 
+    "7ps_ie2dcnbwge2ginzygizdambqgiyde_480x360.jpg", 
+    "7ps_iezgczjvgi2wmmjqgizdambqmmyde_480x640.jpg", 
+    "7ps_iezdizrumnrdgzlcgezdambqmmyde_480x640.jpg", 
+    "7ps_ie2wcnzxmmzdeobwgezdambqhayde_480x640.jpg", 
+    "7ps_ie2wkzrzmmzdeobwgezdambqhayde_480x640.jpg", 
+    "7ps_iezgim3gmi3wmmjugizdambqmmyde_480x640.jpg", 
+    "7ps_ie2wgzrsgq3dizbwgizdambqhayde_750x1004.jpg", 
+    "19f0pu_iezwenruhe2tkn3ggezdambqgyyde_480x640.jpg", 
+    "7ps_ieywgzjvgnstkztegezdambqmeyde_480x360.jpg"
+  ]
+}

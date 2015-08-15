@@ -1,0 +1,29 @@
+{
+  "attrs": {
+    "图案": "粗条纹,细条纹", 
+    "版型": "修身 ", 
+    "细节": "印花,拼接,撞色", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,复古,学院,运动,民族,基本款"
+  }, 
+  "price_now": "75.00", 
+  "price_origin": "107.14", 
+  "product_comment": "1", 
+  "product_name": "造梦先生 条纹韩版修身透气T恤", 
+  "product_sale": 1, 
+  "product_score": "5", 
+  "shop_images": [
+    "1k43cw_ieytqnzvhbsgin3egazdambqmeyde_640x348.jpg", 
+    "1k43cw_iezgkmrsmnsgin3egazdambqmmyde_781x607.jpg", 
+    "1k43cw_ie2wezjxmnsgin3egazdambqhayde_644x467.jpg", 
+    "1k43cw_iezgkndgmnsgin3egazdambqmmyde_783x523.jpg", 
+    "1k43cw_ieytmojxmrsgin3egazdambqmeyde_782x521.jpg", 
+    "1k43cw_ie2tqojqmvsgin3egazdambqhayde_782x563.jpg", 
+    "1k43cw_ieywknzzmvsgin3egazdambqmeyde_773x575.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieytcmlfmy3gcnzrgezdambqmeyde_480x641.jpg"
+  ]
+}

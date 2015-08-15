@@ -1,0 +1,31 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "49.00", 
+  "price_origin": "61.25", 
+  "product_comment": "6", 
+  "product_name": "店主风男士条纹修身短袖polo衫", 
+  "product_sale": 17, 
+  "product_score": "4.3", 
+  "shop_images": [
+    "1a93hb_ieytqmzrgvqtqyjrgezdambqmeyde_800x800.jpg", 
+    "1a93hb_ie2dsyjymfqtqyjrgezdambqgiyde_750x841.jpg", 
+    "1a93hb_ie2tkytfmjqtqyjrgezdambqhayde_750x680.jpg", 
+    "1a93hb_ieztszbumrqtqyjrgezdambqgyyde_750x882.jpg", 
+    "1a93hb_ie2wkn3cmvqtqyjrgezdambqhayde_750x652.jpg", 
+    "1a93hb_ie2toojtgbrdqyjrgezdambqhayde_750x800.jpg", 
+    "1a93hb_ieytambzgfrdqyjrgezdambqmeyde_750x772.jpg", 
+    "1a93hb_iezgcn3fgjrdqyjrgezdambqmmyde_750x794.jpg", 
+    "1a93hb_ie2dszrrgvrdqyjrgezdambqgiyde_750x624.jpg"
+  ], 
+  "user_images": [
+    "1atqu5_ie2gkyzqgfsdsnjrgizdambqgiyde_480x853.jpg", 
+    "7ps_ie2giyjxmuzgmmrxgizdambqgiyde_750x1004.jpg"
+  ]
+}

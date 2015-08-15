@@ -1,0 +1,32 @@
+{
+  "attrs": {
+    "图案": "波点", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "78.00", 
+  "price_origin": "104.00", 
+  "product_comment": "15", 
+  "product_name": "夏装纯棉男装青少年短袖T恤", 
+  "product_sale": 25, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hhr7x_iezdizbqgq3tcolgmyytambqmmyde_790x662.jpg", 
+    "1hhr7x_iezdozbrgq3tcolgmyytambqmmyde_790x940.jpg", 
+    "1hhr7x_iezdayrsgq3tcolgmyytambqmmyde_790x426.jpg", 
+    "1hhr7x_ieywiobtgq3tcolgmyytambqmeyde_790x652.jpg", 
+    "1hhr7x_ieywmyrvgq3tcolgmyytambqmeyde_790x942.jpg", 
+    "1hhr7x_iezggmjwgq3tcolgmyytambqmmyde_790x462.jpg", 
+    "1hhr7x_iezdcmtegyzggyrvgazdambqmmyde_790x436.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezwmytcmzrggyrvgazdambqgyyde_480x640.jpg", 
+    "7ps_iezwcmlfmnrtozbugezdambqgyyde_480x641.jpg", 
+    "7ps_ie2gezdfgy2taztfgazdambqgiyde_480x647.jpg"
+  ]
+}

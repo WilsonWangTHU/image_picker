@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "图案": "细条纹,字母,星星", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,嬉皮,学院,运动,街头"
+  }, 
+  "price_now": "69.00", 
+  "price_origin": "86.25", 
+  "product_comment": "17", 
+  "product_name": "男士星星条纹短袖t恤", 
+  "product_sale": 26, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "1a93hb_iezdqy3dgq3wimjrgazdambqmmyde_750x1469.jpg", 
+    "1a93hb_ie2dgzjxg43wimjrgazdambqgiyde_750x1323.jpg", 
+    "1a93hb_iezweyleme3wimjrgazdambqgyyde_747x1480.jpg", 
+    "1a93hb_ie2win3dmi3wimjrgazdambqhayde_749x1498.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezgeytdhe2dimtdgazdambqmmyde_480x360.jpg", 
+    "7ps_ieywmzddhe2dimtdgazdambqmeyde_480x641.jpg"
+  ]
+}

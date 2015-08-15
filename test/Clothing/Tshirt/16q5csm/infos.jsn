@@ -1,0 +1,50 @@
+{
+  "attrs": {
+    "图案": "三角形", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,复古"
+  }, 
+  "price_now": "49.00", 
+  "price_origin": "70.00", 
+  "product_comment": "460", 
+  "product_name": "Pro潮男衣柜 男士休闲T恤", 
+  "product_sale": 957, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1hjsfj_ie2wemlfmy2ggyldmyytambqhayde_800x1200.jpg", 
+    "1hjsfj_ie2dqntfmy2ggyldmyytambqgiyde_800x1200.jpg", 
+    "1hjsfj_iezgenbxgmzdszlfmyytambqmmyde_800x1362.jpg", 
+    "1hjsfj_ieyweytbgmzdszlfmyytambqmeyde_800x1399.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2tcmtfmzrdqnzvgizdambqhayde_568x1010.jpg", 
+    "7ps_ie2tonrwgm3diyzwgezdambqhayde_480x640.jpg", 
+    "peh6u_ieztqmjxgyzgimzvgezdambqgyyde_480x640.jpg", 
+    "7ps_ieztkmzrgnrtgmzugezdambqgyyde_480x480.jpg", 
+    "7ps_ie2daobsgq2wenztgezdambqgiyde_480x640.jpg", 
+    "7ps_ie2winjsgq2wenztgezdambqhayde_480x852.jpg", 
+    "10s67_ie2gkmjwhbqtgyjsgezdambqgiyde_738x984.jpg", 
+    "1dr87w_ieztimbvgiydezjrgezdambqgyyde_1536x2048.jpg", 
+    "1dr87w_ie2dkoldmztdczjrgezdambqgiyde_1536x2048.jpg", 
+    "1dr87w_ie2tmobwmrtdczjrgezdambqhayde_1536x2048.jpg", 
+    "upload_ieywemrzgvtgmojrgezdambqmeyde_480x853.jpg", 
+    "7ps_ieztgzdfme4gezbqgezdambqgyyde_480x854.jpg", 
+    "upload_ieztsmrrmvqwmztggazdambqgyyde_480x858.jpg", 
+    "upload_ie2tizbrgvrgmztggazdambqhayde_480x858.jpg", 
+    "upload_ie2tqmbwgu2tkm3ggazdambqhayde_480x853.jpg", 
+    "upload_ie2tsyjthe2wmmdfgazdambqhayde_480x729.jpg", 
+    "upload_iezgcylfgm4wcmdfgazdambqmmyde_480x640.jpg", 
+    "7ps_ieztcyrxmi2dmn3egazdambqgyyde_480x641.jpg", 
+    "upload_ieytcndeha3winlegazdambqmeyde_480x360.jpg", 
+    "7ps_ieztgobvgq2gemtegazdambqgyyde_480x643.jpg", 
+    "7ps_ie2wemlgmy3domlegazdambqhayde_480x641.jpg", 
+    "upload_ieztembrgmywgn3dgazdambqgyyde_480x852.jpg", 
+    "upload_ie2gemtbgeygem3cgazdambqgiyde_480x720.jpg", 
+    "7ps_iezdczrrg5stgolbgazdambqmmyde_480x640.jpg"
+  ]
+}

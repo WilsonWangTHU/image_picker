@@ -1,0 +1,24 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 "
+  }, 
+  "price_now": "73.50", 
+  "price_origin": "105.00", 
+  "product_comment": "1", 
+  "product_name": "潮流男装纯棉短袖POLO衫", 
+  "product_sale": 6, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "1g0ck_iezggyrugnqwimtbgazdambqmmyde_640x1269.jpg", 
+    "1g0ck_ieztamdegvqwimtbgazdambqgyyde_640x1269.jpg", 
+    "1g0ck_ie2tgobxgzqwimtbgazdambqhayde_640x1269.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2tmn3cgjtdintdgazdambqhayde_480x641.jpg", 
+    "7ps_ie2geoddgjtdintdgazdambqgiyde_480x641.jpg", 
+    "7ps_ie2giyldgjtdintdgazdambqgiyde_480x641.jpg"
+  ]
+}

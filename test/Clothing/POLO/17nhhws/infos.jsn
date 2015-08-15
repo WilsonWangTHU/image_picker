@@ -1,0 +1,39 @@
+{
+  "attrs": {
+    "图案": "纯色", 
+    "版型": "修身 ", 
+    "细节": "罗纹", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,复古,商务,基本款"
+  }, 
+  "price_now": "65.10", 
+  "price_origin": "93.00", 
+  "product_comment": "84", 
+  "product_name": "OUY男装 纯色立领Polo衫", 
+  "product_sale": 279, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1hvzyn_ie2tcyjtmiztqmjqgezdambqhayde_659x660.jpg", 
+    "1hvzyn_ieztqnrvmmztqmjqgezdambqgyyde_658x656.jpg", 
+    "1hvzyn_ieytczdbmuztqmjqgezdambqmeyde_657x656.jpg", 
+    "1hvzyn_ieywcntcgq3dqmjqgezdambqmeyde_660x661.jpg", 
+    "1hvzyn_ieztqm3ggu3dqmjqgezdambqgyyde_660x661.jpg", 
+    "1hvzyn_ieztambwhe3dqmjqgezdambqgyyde_660x662.jpg", 
+    "1hvzyn_ieytkmjsmm3dqmjqgezdambqmeyde_660x661.jpg", 
+    "1hvzyn_iezwkobsmu3dqmjqgezdambqgyyde_660x660.jpg"
+  ], 
+  "user_images": [
+    "rd4qo_ie2teobxguydmyzugezdambqhayde_480x640.jpg", 
+    "7ps_iezweztbmiydoyrugezdambqgyyde_480x640.jpg", 
+    "7ps_ie2wizlbmiydoyrugezdambqhayde_480x640.jpg", 
+    "7ps_ie2dintdmiydoyrugezdambqgiyde_480x640.jpg", 
+    "1d3hve_iezdmmzugvtdqmzugezdambqmmyde_480x640.jpg", 
+    "7ps_ie2ggyzrmzstezbrgezdambqgiyde_480x479.jpg", 
+    "7ps_ie2dgmlbmvrgkyjqgezdambqgiyde_480x480.jpg", 
+    "7ps_iezdinzsgeydemlfgazdambqmmyde_480x360.jpg", 
+    "1dhh86_ieywenjymnstqyjygizdambqmeyde_480x853.jpg", 
+    "7ps_ie2toobygfsgizjqgezdambqhayde_480x720.jpg"
+  ]
+}

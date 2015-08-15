@@ -1,0 +1,47 @@
+{
+  "attrs": {
+    "图案": "字母,几何", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,西部,学院,街头"
+  }, 
+  "price_now": "49.00", 
+  "price_origin": "61.25", 
+  "product_comment": "122", 
+  "product_name": "韩版修身型五星印花T恤", 
+  "product_sale": 166, 
+  "product_score": "4.4", 
+  "shop_images": [
+    "1a93hb_ie2wgyrug42wkyzqgazdambqhayde_750x1301.jpg", 
+    "1a93hb_iezgimztg42wkyzqgazdambqmmyde_750x1190.jpg", 
+    "1a93hb_ieytcytbhe2wkyzqgazdambqmeyde_750x1332.jpg", 
+    "1a93hb_ie2dkodehe2wkyzqgazdambqgiyde_750x1396.jpg", 
+    "1a93hb_ie2tmmrymm2wkyzqgazdambqhayde_749x1384.jpg", 
+    "1a93hb_ieytgobymm2wkyzqgazdambqmeyde_745x1194.jpg", 
+    "1a93hb_iezdszbwmm2wkyzqgazdambqmmyde_750x1260.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2gkyzvmyydqyztgezdambqgiyde_480x640.jpg", 
+    "upload_ie2toyjugjrdeylfgazdambqhayde_480x640.jpg", 
+    "upload_ie2dozjqgrrdeylfgazdambqgiyde_480x640.jpg", 
+    "7ps_iezgiylfmm4dim3cgazdambqmmyde_480x641.jpg", 
+    "7ps_ieyweztfmm4dim3cgazdambqmeyde_480x641.jpg", 
+    "upload_iezdqmtbga3wczdbgazdambqmmyde_480x647.jpg", 
+    "upload_ieywkztemq4gczdbgazdambqmeyde_480x647.jpg", 
+    "upload_ie2giztcgu4wczdbgazdambqgiyde_480x647.jpg", 
+    "7ps_ie2dszjwmrtdmm3bgazdambqgiyde_480x640.jpg", 
+    "7ps_ieytim3eme4dmmtbgazdambqmeyde_480x640.jpg", 
+    "upload_ie2tmy3dg5rwiyjwgazdambqhayde_480x640.jpg", 
+    "upload_iezgmmzwgq4wgnzsgazdambqmmyde_480x640.jpeg", 
+    "upload_ieywizteme4wgnzsgazdambqmeyde_480x640.jpeg", 
+    "7ps_iezgkzjwga4dcmzsgazdambqmmyde_480x640.jpg", 
+    "upload_iezdsmbugnqtinbtgezdambqmmyde_480x360.jpg", 
+    "upload_ie2tsnrtgm3gcyzrgazdambqhayde_480x640.jpeg", 
+    "upload_ie2tomryha3gcyzrgazdambqhayde_480x640.jpeg", 
+    "upload_iezdgmrugu3ggnlcgazdambqmmyde_480x640.jpg"
+  ]
+}

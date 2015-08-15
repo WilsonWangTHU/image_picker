@@ -1,0 +1,37 @@
+{
+  "attrs": {
+    "上市时间": "2015年", 
+    "印花主题": "其他", 
+    "厚薄": "常规", 
+    "基础风格": "青春流行", 
+    "尺码": "170/90(M) 175/95(L) 180/100(XL)", 
+    "版型": "修身", 
+    "细分风格": "潮", 
+    "花型图案": "字母数字", 
+    "袖型": "常规", 
+    "袖长": "短袖", 
+    "适用场景": "其他休闲", 
+    "适用季节": "夏季", 
+    "适用对象": "青年", 
+    "领型": "圆领", 
+    "颜色": "B09绿色 B09黑色 B11白色 B11黑色 白色 黑色"
+  }, 
+  "price_now": "45.00", 
+  "price_origin": "90.00", 
+  "product_comment": "46", 
+  "product_name": "Pro 数字印花休闲短袖T恤", 
+  "product_sale": 202, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hjsfj_ie2wmyzrmfrtomdfgazdambqhayde_800x800.jpg", 
+    "1hjsfj_ie2tomrumfrtomdfgazdambqhayde_800x800.jpg"
+  ], 
+  "user_images": [
+    "1nv0lg_ie2tcodgheywknbygezdambqhayde_768x1024.jpg", 
+    "upload_iezwinjsmy2dambtgezdambqgyyde_480x360.jpg", 
+    "7ps_ie2dcy3cheydazbsgezdambqgiyde_480x640.jpg", 
+    "7ps_ie2doobqgqztqmzsgezdambqgiyde_480x640.jpg", 
+    "7ps_ie2dknbzmjrdanrzgizdambqgiyde_750x1000.jpg", 
+    "2sb7e_ieywgmdfgy4wgzjtgezdambqmeyde_291x516.jpg"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "attrs": {
+    "图案": "小闪电", 
+    "版型": "修身 ", 
+    "细节": "烫印染", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "时尚都市"
+  }, 
+  "price_now": "100.00", 
+  "price_origin": "125.00", 
+  "product_comment": "33", 
+  "product_name": "男士翻领修身丝光棉短袖polo衫", 
+  "product_sale": 45, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1ial0e_iezggmjygq2wgolemyytambqmmyde_790x494.jpg", 
+    "1ial0e_ie2dmmbxgq2wgolemyytambqgiyde_790x498.jpg", 
+    "1ial0e_ieywmnlcgy3tiobqgazdambqmeyde_790x1316.jpg", 
+    "1ial0e_ieztkyrxgq2wgolemyytambqgyyde_790x726.jpg", 
+    "1ial0e_ieytmmjzgq2wgolemyytambqmeyde_790x572.jpg", 
+    "1ial0e_iezwimrygq2wgolemyytambqgyyde_790x594.jpg"
+  ], 
+  "user_images": [
+    "1jp6ei_iezweylgmuzgkobugezdambqgyyde_302x399.jpg", 
+    "1jp6ei_ie2wenrvmuzgkobugezdambqhayde_300x398.jpg", 
+    "7ps_ieywimbsheydgzbsgezdambqmeyde_480x640.jpg", 
+    "7ps_ie2wiobsheydgzbsgezdambqhayde_480x640.jpg"
+  ]
+}

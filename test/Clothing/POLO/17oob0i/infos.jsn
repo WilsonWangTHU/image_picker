@@ -1,0 +1,40 @@
+{
+  "attrs": {
+    "图案": "国旗", 
+    "版型": "修身 ", 
+    "细节": "刺绣", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "风格": "日韩,欧美,复古,民族,基本款"
+  }, 
+  "price_now": "68.60", 
+  "price_origin": "98.00", 
+  "product_comment": "5", 
+  "product_name": "徽章修身男士POLO衫", 
+  "product_sale": 42, 
+  "product_score": "4.2", 
+  "shop_images": [
+    "18h0ph_ie2tgnzumy3dkmbsgezdambqhayde_820x1062.jpg", 
+    "18h0ph_iezwenlfmy3dkmbsgezdambqgyyde_820x882.jpg", 
+    "18h0ph_ieytiy3bga3tkmbsgezdambqmeyde_820x748.jpg", 
+    "18h0ph_ie2donlbge3tkmbsgezdambqgiyde_820x1132.jpg", 
+    "18h0ph_iezdinlbge3tkmbsgezdambqmmyde_820x1206.jpg", 
+    "18h0ph_ie2ggyrugi3tkmbsgezdambqgiyde_820x892.jpg", 
+    "18h0ph_ieywcodfgm3tkmbsgezdambqmeyde_820x1222.jpg", 
+    "18h0ph_iezwmmjsgq3tkmbsgezdambqgyyde_820x1288.jpg", 
+    "18h0ph_iezwgyjqgy3tkmbsgezdambqgyyde_820x1254.jpg", 
+    "18h0ph_ie2tmnjwg43tkmbsgezdambqhayde_820x916.jpg", 
+    "18h0ph_iezwmyteha3tkmbsgezdambqgyyde_820x1146.jpg", 
+    "18h0ph_ie2wkzbxhe3tkmbsgezdambqhayde_820x1190.jpg", 
+    "18h0ph_ieytmmrzhe3tkmbsgezdambqmeyde_820x1004.jpg", 
+    "18h0ph_ieztmyjxmi3tkmbsgezdambqgyyde_820x954.jpg", 
+    "18h0ph_iezwmndbmi3tkmbsgezdambqgyyde_820x936.jpg", 
+    "18h0ph_ie2wemddmi3tkmbsgezdambqhayde_820x1268.jpg", 
+    "18h0ph_ieywgmjvmm3tkmbsgezdambqmeyde_820x1294.jpg", 
+    "18h0ph_iezgcmzqmq3tkmbsgezdambqmmyde_820x1224.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezdszbzga2gmn3bgezdambqmmyde_480x854.jpg", 
+    "7ps_ie2wkmjqgm2gmn3bgezdambqhayde_480x854.jpg"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "attrs": {
+    "图案": "细条纹,字母", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "做旧,磨毛,水洗", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,朋克,嬉皮,学院,街头"
+  }, 
+  "price_now": "110.40", 
+  "price_origin": "138.00", 
+  "product_comment": "6", 
+  "product_name": "韩版字母印花水洗短袖T恤", 
+  "product_sale": 3, 
+  "product_score": "5", 
+  "shop_images": [
+    "1a93hb_ieztomzrmu2tinbrgazdambqgyyde_750x1467.jpg", 
+    "1a93hb_iezdqntcmq2tinbrgazdambqmmyde_750x1473.jpg", 
+    "1a93hb_iezdmmlcmy2tinbrgazdambqmmyde_750x1460.jpg", 
+    "1a93hb_ie2tinjygm3dinbrgazdambqhayde_749x1459.jpg", 
+    "1a93hb_iezdkzbqgm3dinbrgazdambqmmyde_749x1492.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2dinlemq2tmn3cgazdambqgiyde_480x851.jpg", 
+    "upload_ie2dqmlcge3dmn3cgazdambqgiyde_480x851.jpg", 
+    "7ps_ie2tmyzzmi4gmzlggazdambqhayde_480x640.jpg"
+  ]
+}

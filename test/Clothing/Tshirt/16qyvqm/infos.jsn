@@ -1,0 +1,27 @@
+{
+  "attrs": {
+    "图案": "字母,卡通,蝙蝠侠", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,朋克,学院"
+  }, 
+  "price_now": "38.50", 
+  "price_origin": "77.00", 
+  "product_comment": "18", 
+  "product_name": "卡通蝙蝠侠印花修身男士T恤", 
+  "product_sale": 19, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1f60k_ie2ggzrsge2tinzugezdambqgiyde_640x1184.jpg", 
+    "1f60k_ie2wgobvge2tinzugezdambqhayde_640x1150.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieztcolcgfsdoyjsgezdambqgyyde_480x640.jpg", 
+    "upload_iezgey3emjsdamtggezdambqmmyde_480x640.jpg", 
+    "upload_iezwkobymzsdamtggezdambqgyyde_480x640.jpg", 
+    "upload_ieytomzygfstamtggezdambqmeyde_480x360.jpg"
+  ]
+}

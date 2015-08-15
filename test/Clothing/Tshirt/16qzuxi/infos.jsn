@@ -1,0 +1,34 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "异色车线", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,朋克,嬉皮,学院,街头"
+  }, 
+  "price_now": "69.00", 
+  "price_origin": "86.25", 
+  "product_comment": "36", 
+  "product_name": "港风潮牌男士圆领短袖T恤", 
+  "product_sale": 54, 
+  "product_score": "4.2", 
+  "shop_images": [
+    "1a93hb_iezgimjyha2denzqgazdambqmmyde_750x1334.jpg", 
+    "1a93hb_ie2dkmrvha2denzqgazdambqgiyde_750x1412.jpg", 
+    "1a93hb_ieztendehe2denzqgazdambqgyyde_750x1290.jpg", 
+    "1a93hb_ieztkzdehe2denzqgazdambqgyyde_750x1418.jpg"
+  ], 
+  "user_images": [
+    "1dxxnz_ieztsyjugrrdkoldgezdambqgyyde_480x851.jpg", 
+    "7ps_ie2ggzjwhbsgmyzwgezdambqgiyde_480x640.jpg", 
+    "7ps_iezdinjtgfrwkzbxgazdambqmmyde_480x641.jpg", 
+    "7ps_ieywgnrtgfrwkzbxgazdambqmeyde_480x641.jpg", 
+    "1j5a5j_iezdgnjymm2wmnbwgazdambqmmyde_2592x1936.jpg", 
+    "7ps_iezwgodggzswcodcgazdambqgyyde_480x640.jpg", 
+    "7ps_ieytimlggzswcodcgazdambqmeyde_480x640.jpg", 
+    "7ps_ie2wmnlggzswcodcgazdambqhayde_480x640.jpg"
+  ]
+}

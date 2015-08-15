@@ -1,0 +1,30 @@
+{
+  "attrs": {
+    "图案": "花卉", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "V领 ", 
+    "风格": "日韩,复古"
+  }, 
+  "price_now": "59.50", 
+  "price_origin": "85.00", 
+  "product_comment": "21", 
+  "product_name": "男友风高质感立体修身型男士t恤", 
+  "product_sale": 25, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "rfbkx_ie2tqm3egntggntcmyytambqhayde_1000x1500.jpg", 
+    "rfbkx_iezwgodeg5tggntcmyytambqgyyde_1000x1500.jpg", 
+    "rfbkx_ie2wcnrxmjtggntcmyytambqhayde_1000x1500.jpg", 
+    "rfbkx_iezwinlbmrtggntcmyytambqgyyde_1000x1500.jpg", 
+    "rfbkx_ie2diytfmztggntcmyytambqgiyde_1000x1500.jpg", 
+    "rfbkx_iezgkmdggeygintcmyytambqmmyde_1000x1500.jpg"
+  ], 
+  "user_images": [
+    "1lqm2j_ie2wimrsmfrdknlggazdambqhayde_364x416.jpg", 
+    "upload_ieytenztme4dimrtgezdambqmeyde_480x640.jpg"
+  ]
+}

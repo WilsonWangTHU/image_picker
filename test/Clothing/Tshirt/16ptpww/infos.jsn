@@ -1,0 +1,33 @@
+{
+  "attrs": {
+    "材质": "棉 ", 
+    "版型": "宽松 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 "
+  }, 
+  "price_now": "49.00", 
+  "price_origin": "70.00", 
+  "product_comment": "71", 
+  "product_name": "U&LASON 男款韩范T恤", 
+  "product_sale": 76, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1hn6wa_iezdaodbgyzdqzbvmyytambqmmyde_640x427.jpg", 
+    "1hn6wa_iezgen3dgyzdqzbvmyytambqmmyde_640x427.jpg", 
+    "1hn6wa_ieztmztdgyzdqzbvmyytambqgyyde_640x427.jpg", 
+    "1hn6wa_ieywin3fgyzdqzbvmyytambqmeyde_640x960.jpg", 
+    "1hn6wa_iezdkmjvg4zdqzbvmyytambqmmyde_640x960.jpg", 
+    "1hn6wa_iezwgmjtg4zdqzbvmyytambqgyyde_640x960.jpg", 
+    "1hn6wa_ie2wgyrtg4zdqzbvmyytambqhayde_640x960.jpg", 
+    "1hn6wa_ieztoy3fgyzdqzbvmyytambqgyyde_640x960.jpg", 
+    "1hn6wa_ie2wcmdegizdqylbmyytambqhayde_640x960.jpg", 
+    "1hn6wa_ieytey3fgizdqylbmyytambqmeyde_640x960.jpg", 
+    "1hn6wa_iezgmntggizdqylbmyytambqmmyde_640x960.jpg", 
+    "1hn6wa_ieztqzbqgmzdqylbmyytambqgyyde_640x960.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezteojtmnrteojzgazdambqgyyde_480x360.jpg", 
+    "upload_ie2tomrshbqtozrzgazdambqhayde_426x568.jpg"
+  ]
+}

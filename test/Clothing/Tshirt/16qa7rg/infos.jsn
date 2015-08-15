@@ -1,0 +1,31 @@
+{
+  "attrs": {
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "V领 ", 
+    "风格": "休闲"
+  }, 
+  "price_now": "58.50", 
+  "price_origin": "78.00", 
+  "product_comment": "6", 
+  "product_name": "自由橙 烫钻字母男士V领短袖T恤", 
+  "product_sale": 27, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1i9t0l_iezwkzrwmfqteytdmyytambqgyyde_640x426.jpg", 
+    "1i9t0l_ie2gcnjymfqteytdmyytambqgiyde_640x426.jpg", 
+    "1i9t0l_ie2toylbmfqteytdmyytambqhayde_640x960.jpg", 
+    "1i9t0l_ieywcmtcmfqteytdmyytambqmeyde_640x960.jpg", 
+    "1i9t0l_ieztsytcmfqteytdmyytambqgyyde_640x426.jpg", 
+    "1i9t0l_ie2dkmldmfqteytdmyytambqgiyde_640x426.jpg", 
+    "1i9t0l_ie2teytemfqteytdmyytambqhayde_640x960.jpg", 
+    "1i9t0l_ieztcn3emfqteytdmyytambqgyyde_640x426.jpg", 
+    "1i9t0l_ie2gimtfmfqteytdmyytambqgiyde_640x426.jpg", 
+    "1i9t0l_ieytmztfmfqteytdmyytambqmeyde_640x426.jpg"
+  ], 
+  "user_images": [
+    "upload_ieytqnbxhfrdoy3cgazdambqmeyde_480x800.jpg"
+  ]
+}

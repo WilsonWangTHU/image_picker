@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "图案": "细条纹,字母", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "拼接", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "59.50", 
+  "price_origin": "85.00", 
+  "product_comment": "1", 
+  "product_name": "拼接款修身型男士短袖t恤", 
+  "product_sale": 1, 
+  "product_score": "5", 
+  "shop_images": [
+    "rfbkx_ie2gkyjygvtggodemyytambqgiyde_1000x1500.jpg", 
+    "rfbkx_ieztkmtcmftggodemyytambqgyyde_1000x1500.jpg", 
+    "rfbkx_iezdmnrvmntggodemyytambqmmyde_1000x1500.jpg", 
+    "rfbkx_iezwizjvmvtggodemyytambqgyyde_1000x1500.jpg", 
+    "rfbkx_ie2tsnrtgaygiodemyytambqhayde_1000x1500.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2wcnjqhezdan3ggezdambqhayde_480x563.jpg"
+  ]
+}

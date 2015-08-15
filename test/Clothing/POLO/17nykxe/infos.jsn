@@ -1,0 +1,40 @@
+{
+  "attrs": {
+    "上市时间": "2015年", 
+    "厚薄": "常规", 
+    "基础风格": "青春流行", 
+    "尺码": "M L XL 2XL 3XL", 
+    "版型": "修身", 
+    "袖型": "常规", 
+    "袖长": "短袖", 
+    "适用场景": "其他休闲", 
+    "适用季节": "夏季", 
+    "适用对象": "青少年", 
+    "颜色": "白色 灰色 黑色 红色 绿色"
+  }, 
+  "price_now": "59.50", 
+  "price_origin": "85.00", 
+  "product_comment": "5", 
+  "product_name": "型男社 韩版男装短袖polo衫", 
+  "product_sale": 43, 
+  "product_score": "4.3", 
+  "shop_images": [
+    "1241sq_iezgiyjvmvrtim3fgazdambqmmyde_750x564.jpg", 
+    "1241sq_ie2gmyzwmvrtim3fgazdambqgiyde_750x637.jpg", 
+    "1241sq_iezdsmbxmvrtim3fgazdambqmmyde_750x734.jpg", 
+    "1241sq_ie2gkzrxgjsdim3fgazdambqgiyde_750x629.jpg", 
+    "1241sq_ieywcnjygjsdim3fgazdambqmeyde_750x724.jpg", 
+    "1241sq_ieywimrzgjsdim3fgazdambqmeyde_750x709.jpg", 
+    "1241sq_ie2dezbzgjsdim3fgazdambqgiyde_750x702.jpg", 
+    "1241sq_ieywgnzqgzsdim3fgazdambqmeyde_749x723.jpg", 
+    "1241sq_ieytsmbrgzsdim3fgazdambqmeyde_750x632.jpg", 
+    "1241sq_iezdknbrgzsdim3fgazdambqmmyde_750x646.jpg", 
+    "1241sq_ie2tizrsgzsdim3fgazdambqhayde_750x642.jpg", 
+    "1241sq_iezwczjsgzsdim3fgazdambqgyyde_750x677.jpg", 
+    "1241sq_iezdmobugzsdim3fgazdambqmmyde_750x684.jpg", 
+    "1241sq_ieztqnbvgzsdim3fgazdambqgyyde_750x748.jpg"
+  ], 
+  "user_images": [
+    "1kc40m_iezteyldgrqtcm3fgezdambqgyyde_480x851.jpg"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "attrs": {
+    "图案": "字母,英文", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,朋克,学院,运动,街头"
+  }, 
+  "price_now": "55.02", 
+  "price_origin": "78.60", 
+  "product_comment": "1", 
+  "product_name": "经典涂鸦字母修身T恤", 
+  "product_sale": 2, 
+  "product_score": "5", 
+  "shop_images": [
+    "1f60k_iezdsojrmmydqzbugezdambqmmyde_800x921.jpg", 
+    "1f60k_ieztgnbtmmydqzbugezdambqgyyde_800x964.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2dmnldmu4tamzzgazdambqgiyde_480x852.jpg", 
+    "upload_ie2dkyzugjqtamzzgazdambqgiyde_480x656.jpg"
+  ]
+}

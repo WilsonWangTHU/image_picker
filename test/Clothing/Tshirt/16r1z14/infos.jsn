@@ -1,0 +1,53 @@
+{
+  "attrs": {
+    "图案": "粗条纹,几何", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "水洗,印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,学院,运动,商务,街头,基本款"
+  }, 
+  "price_now": "49.50", 
+  "price_origin": "90.00", 
+  "product_comment": "267", 
+  "product_name": "衣神前传春夏季新款男士短袖T恤", 
+  "product_sale": 817, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1hvx2y_ieztsmtbmy3doyzqgazdambqgyyde_1000x1192.jpg", 
+    "1hvx2y_ie2wemdfgq3toyzqgazdambqhayde_1000x1152.jpg", 
+    "1hvx2y_ie2tmnbumq3toyzqgazdambqhayde_1000x1234.jpg", 
+    "1hvx2y_ieztoolcgm4doyzqgazdambqgyyde_1000x1350.jpg", 
+    "1hvx2y_ieztmzbthe4doyzqgazdambqgyyde_1000x1174.jpg", 
+    "1hvx2y_iezdendcmq4doyzqgazdambqmmyde_1000x1024.jpg", 
+    "1hvx2y_ie2wintdgi4toyzqgazdambqhayde_1000x1197.jpg", 
+    "1hvx2y_ieztizrzmm4toyzqgazdambqgyyde_1000x1254.jpg", 
+    "1hvx2y_ie2giolegnqtoyzqgazdambqgiyde_1000x1200.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieztmyteha3dsztcgezdambqgyyde_480x640.jpg", 
+    "7ps_ie2tkzleha3dsztcgezdambqhayde_480x640.jpg", 
+    "7ps_ieztcmlfha3dsztcgezdambqgyyde_480x640.jpg", 
+    "cjivb_iezgmyzumfsdiyrygezdambqmmyde_480x360.jpg", 
+    "cjivb_ie2dsyrrmzsdiyrygezdambqgiyde_480x360.jpg", 
+    "cjivb_ie2dqmbwmrtdiyrygezdambqgiyde_480x360.jpg", 
+    "upload_ieztiy3bgjrtcmrvgezdambqgyyde_480x640.jpg", 
+    "upload_ie2wgyzumnrtcmrvgezdambqhayde_480x640.jpg", 
+    "upload_ieyton3ggbsdcmrvgezdambqmeyde_480x853.jpg", 
+    "7ps_ie2tazrzguzdkobsgezdambqhayde_480x640.jpg", 
+    "7ps_ieywmntemqzdoyjrgezdambqmeyde_480x854.jpg", 
+    "upload_iezwcm3dmnqwmy3egazdambqgyyde_480x640.jpg", 
+    "upload_ie2gmzjwg5sdmn3dgazdambqgiyde_480x640.jpg", 
+    "upload_ieztonbzmq3tcmtdgazdambqgyyde_480x640.jpg", 
+    "11hl2v_iezwknlegi4tkzbzgazdambqgyyde_880x1104.jpg", 
+    "7ps_ie2tmn3bgu2danzzgazdambqhayde_480x640.jpg", 
+    "18ws7n_ieywkyrxmnrwiytfgezdambqmeyde_468x624.jpg", 
+    "7ps_ie2dmmdfgvrwczjzgezdambqgiyde_480x640.jpg", 
+    "17gdbx_iezwcyzqhfqwcylggezdambqgyyde_480x360.jpg", 
+    "7ps_ieytszbrg44gkobqgezdambqmeyde_480x640.jpg", 
+    "upload_ieztqmrugnrdkobsgazdambqgyyde_480x640.jpeg", 
+    "upload_ieywmmjvg5rdkobsgazdambqmeyde_480x640.jpeg"
+  ]
+}

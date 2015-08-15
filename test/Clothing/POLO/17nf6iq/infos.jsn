@@ -1,0 +1,38 @@
+{
+  "attrs": {
+    "厚度": "普通", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "适合人群": "青少年", 
+    "面料材质": "棉 ", 
+    "领型": "翻领", 
+    "风格": "日韩,学院,运动,街头,基本款"
+  }, 
+  "price_now": "88.00", 
+  "price_origin": "", 
+  "product_comment": "9", 
+  "product_name": "夏季男士短袖POLO衫", 
+  "product_sale": 42, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1jhuzb_iezdsmbvgm3dandcgazdambqmmyde_750x818.jpg", 
+    "1jhuzb_ieytqojqgy3dandcgazdambqmeyde_750x759.jpg", 
+    "1jhuzb_iezwgobumq3dandcgazdambqgyyde_750x710.jpg", 
+    "1jhuzb_ieztantemy3dandcgazdambqgyyde_750x750.jpg", 
+    "1jhuzb_ie2gcmjrgi3tandcgazdambqgiyde_750x818.jpg", 
+    "1jhuzb_ie2dkytegq3tandcgazdambqgiyde_750x683.jpg", 
+    "1jhuzb_iezdizjsg43tandcgazdambqmmyde_750x750.jpg", 
+    "1jhuzb_ie2dazjyme3tandcgazdambqgiyde_750x737.jpg", 
+    "1jhuzb_ie2dimzzmq3tandcgazdambqgiyde_750x723.jpg", 
+    "1jhuzb_ie2wmnlbmy3tandcgazdambqhayde_750x782.jpg", 
+    "1jhuzb_iezwizrxgy4dandcgazdambqgyyde_750x710.jpg"
+  ], 
+  "user_images": [
+    "1aswh0_ie2tczjvgm3tezbugezdambqhayde_480x480.jpg", 
+    "upload_ie2demjqgq2tqntegazdambqgiyde_480x477.jpg", 
+    "upload_iezdqojwha2tqntegazdambqmmyde_480x800.jpg", 
+    "7ps_ieytezdgmrsdanbygezdambqmeyde_480x641.jpg", 
+    "7ps_ie2gmzjqmvsdanbygezdambqgiyde_480x641.jpg"
+  ]
+}

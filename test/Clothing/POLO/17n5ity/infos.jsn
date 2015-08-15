@@ -1,0 +1,45 @@
+{
+  "attrs": {
+    "图案": "字母", 
+    "版型": "修身 ", 
+    "细节": "刺绣", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 "
+  }, 
+  "price_now": "56.00", 
+  "price_origin": "112.00", 
+  "product_comment": "128", 
+  "product_name": "VLIFE 原创刺绣字母POLO衫", 
+  "product_sale": 587, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1g58oz_iezgcntcgjsdgzrzgazdambqmmyde_750x500.jpg", 
+    "1g58oz_ieztcnzzgfsdgzrzgazdambqgyyde_750x500.jpg", 
+    "1g58oz_ieytenbugbsdgzrzgazdambqmeyde_750x500.jpg", 
+    "1g58oz_ieywkojxmvrtgzrzgazdambqmeyde_750x500.jpg", 
+    "1g58oz_ie2dczdggnsdgzrzgazdambqgiyde_750x500.jpg", 
+    "1g58oz_ie2dcolgmjsdgzrzgazdambqgiyde_750x500.jpg", 
+    "1g58oz_ie2tazrumrsdgzrzgazdambqhayde_750x500.jpg", 
+    "1g58oz_iezdayjvmvsdgzrzgazdambqmmyde_750x500.jpg", 
+    "1g58oz_ieywmnzqgfstgzrzgazdambqmeyde_750x500.jpg", 
+    "1g58oz_ie2dcmzygjstgzrzgazdambqgiyde_750x500.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezdqn3cmjsdgnzygizdambqmmyde_720x540.jpg", 
+    "7ps_ieywkolcmjsdgnzygizdambqmeyde_720x540.jpg", 
+    "7ps_iezdemjvmyzgmmjxgizdambqmmyde_640x854.jpg", 
+    "1fykjy_iezgczbqmqydcnbsgizdambqmmyde_468x830.jpg", 
+    "7ps_ie2dgyrxme3teylggezdambqgiyde_480x852.jpg", 
+    "1crnh0_ieztomlcg4ydonjvgezdambqgyyde_480x454.jpg", 
+    "1crnh0_iezwgodemeydonjvgezdambqgyyde_480x640.jpg", 
+    "7ps_iezdozrrgyzdcmzvgezdambqmmyde_480x640.jpg", 
+    "7ps_iezwenlbgm3dgmrvgezdambqgyyde_480x640.jpg", 
+    "7ps_ie2gen3bgm3dgmrvgezdambqgiyde_480x640.jpg", 
+    "q3zor_iezgmm3ggiywmmrugezdambqmmyde_480x852.jpg", 
+    "7ps_ie2tizrtmuzdenbsgezdambqhayde_480x480.jpg", 
+    "7ps_ie2tqmjtgizgkzbsgizdambqhayde_480x847.jpg", 
+    "7ps_iezgkmddgvrdmolfgezdambqmmyde_480x640.jpg", 
+    "uxl5j_iezginbrmqzgmnzvgezdambqmmyde_2448x3264.jpg", 
+    "uxl5j_iezdmnrsgntgknzvgezdambqmmyde_480x640.jpg"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "attrs": {
+    "图案": "字母", 
+    "版型": "修身 ", 
+    "细节": "刺绣", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "风格": "日韩,欧美,学院,基本款"
+  }, 
+  "price_now": "56.00", 
+  "price_origin": "112.00", 
+  "product_comment": "21", 
+  "product_name": "VLIFE 百搭简洁款纯色polo衫", 
+  "product_sale": 91, 
+  "product_score": "4.3", 
+  "shop_images": [
+    "1g58oz_iezggnzwgm2tkolggazdambqmmyde_750x500.jpg", 
+    "1g58oz_ieztkobyge2tkolggazdambqgyyde_750x500.jpg", 
+    "1g58oz_ieztcztbmy2dkolggazdambqgyyde_750x500.jpg", 
+    "1g58oz_ieytgnrzgi2tkolggazdambqmeyde_750x500.jpg", 
+    "1g58oz_ie2ggzldgu3dkolggazdambqgiyde_750x500.jpg", 
+    "1g58oz_iezdsobsha3dkolggazdambqmmyde_750x500.jpg", 
+    "1g58oz_ie2demjxmm3dkolggazdambqgiyde_750x500.jpg", 
+    "1g58oz_ie2dkoddga3tkolggazdambqgiyde_750x500.jpg", 
+    "1g58oz_iezdkntcge3tkolggazdambqmmyde_750x500.jpg", 
+    "1g58oz_ie2dqobwg43tkolggazdambqgiyde_750x500.jpg", 
+    "1g58oz_ieytmmtfgu3tkolggazdambqmeyde_750x500.jpg", 
+    "1g58oz_ie2gcm3bgq3tkolggazdambqgiyde_750x500.jpg", 
+    "1g58oz_ie2wkmrygrqtkolggazdambqhayde_750x500.jpg"
+  ], 
+  "user_images": [
+    "1c8qus_ieywmmbymmywmnjygezdambqmeyde_480x853.jpg", 
+    "1n2xex_ie2damjzha4geyjwgezdambqgiyde_852x1136.jpg", 
+    "1n2xex_ie2wmnjwgy4geyjwgezdambqhayde_852x1136.jpg", 
+    "7ps_ie2wkylemyzwizrrgizdambqhayde_480x641.jpg", 
+    "7ps_ie2dqzlemyzwizrrgizdambqgiyde_480x641.jpg", 
+    "1ifgmc_ieztomjtgnswgzrvgezdambqgyyde_480x760.jpg", 
+    "1ifgmc_ie2wkm3ggvrggzrvgezdambqhayde_480x647.jpg"
+  ]
+}

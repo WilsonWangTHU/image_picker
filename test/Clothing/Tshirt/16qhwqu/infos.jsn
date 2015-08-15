@@ -1,0 +1,36 @@
+{
+  "attrs": {
+    "图案": "老虎,五角铆钉", 
+    "材质": "棉 ", 
+    "版型": "直身 ", 
+    "细节": "铆钉", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,朋克,复古,街头"
+  }, 
+  "price_now": "63.00", 
+  "price_origin": "90.00", 
+  "product_comment": "36", 
+  "product_name": "男士铆钉老虎头太空棉短袖T恤", 
+  "product_sale": 88, 
+  "product_score": "4.6", 
+  "shop_images": [
+    "1hjsfj_iezgizjyhaztonbygazdambqmmyde_800x1200.jpg", 
+    "1hjsfj_ie2tmn3ehaztonbygazdambqhayde_800x1200.jpg", 
+    "1hjsfj_iezggnrqheztonbygazdambqmmyde_1200x800.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2taytdmm2wcmjxgizdambqhayde_480x641.jpg", 
+    "7ps_iezdayrvmrqtqytggezdambqmmyde_480x640.jpg", 
+    "7ps_ie2dsyzvmrqtqytggezdambqgiyde_480x640.jpg", 
+    "upload_iezdcnjzmqydmyjygezdambqmmyde_480x640.jpg", 
+    "pabm5_iezwiyjvmy3wgmrvgezdambqgyyde_480x640.jpg", 
+    "7ps_iezgknrumu2ggmtegazdambqmmyde_480x640.jpg", 
+    "upload_ieztqmzvhezdmytdgazdambqgyyde_480x606.jpg", 
+    "1iwc2x_iezdcmzrme2gemzqgazdambqmmyde_290x400.jpg", 
+    "upload_ieytcytbhfswcylfgazdambqmeyde_480x641.jpg", 
+    "1iww32_iezdimtbgy2tqnbqgazdambqmmyde_300x400.jpg", 
+    "1iww32_ie2wiodfge2tqnbqgazdambqhayde_300x400.jpg"
+  ]
+}

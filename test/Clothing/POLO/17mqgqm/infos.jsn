@@ -1,0 +1,26 @@
+{
+  "attrs": {
+    "图案": "动物", 
+    "版型": "修身", 
+    "细节": "贴布,撞色", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "面料材质": "棉", 
+    "风格": "商务"
+  }, 
+  "price_now": "79.80", 
+  "price_origin": "114.00", 
+  "product_comment": "1", 
+  "product_name": "欧宏 休闲短袖小鹿Polo衫男装", 
+  "product_sale": 7, 
+  "product_score": "3.2", 
+  "shop_images": [
+    "1jih5o_ie2tanjzmi2tgzrxgazdambqhayde_750x1162.jpg", 
+    "1jih5o_ieytonzvmm2tgzrxgazdambqmeyde_751x773.jpg", 
+    "1jih5o_ie2gmm3gmq2tgzrxgazdambqgiyde_751x883.jpg", 
+    "1jih5o_ieywmzjvmy2tgzrxgazdambqmeyde_751x902.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2dgnjtmm4tenrygizdambqgiyde_540x720.jpg"
+  ]
+}

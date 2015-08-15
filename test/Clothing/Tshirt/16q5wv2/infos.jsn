@@ -1,0 +1,42 @@
+{
+  "attrs": {
+    "图案": "动物", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "翻领 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "59.50", 
+  "price_origin": "85.00", 
+  "product_comment": "80", 
+  "product_name": "立体修身型小翻领男士短袖t恤", 
+  "product_sale": 45, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "rfbkx_ieywinbygaztmy3cmyytambqmeyde_1000x1500.jpg", 
+    "rfbkx_iezwmnrwgiztmy3cmyytambqgyyde_1000x1500.jpg", 
+    "rfbkx_ie2wczrvhaztmy3cmyytambqhayde_1000x1500.jpg", 
+    "rfbkx_ie2tqmrrmqztmy3cmyytambqhayde_1000x1500.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieztinjumu3tgndbgazdambqgyyde_480x360.jpg", 
+    "upload_ieyteoleha3dizbygazdambqmeyde_480x640.jpg", 
+    "upload_iezwmmjuhe3tcnjygazdambqgyyde_480x647.jpg", 
+    "upload_ieywczdfhe2winbygazdambqmeyde_480x647.jpg", 
+    "7ps_iezdgmbxg43gcyrvgazdambqmmyde_480x643.jpg", 
+    "upload_ie2gmojsgy3wknbvgazdambqgiyde_480x640.jpg", 
+    "upload_ie2tmnlggqzdkmzsgazdambqhayde_480x640.jpeg", 
+    "upload_ie2timtcg4zdkmzsgazdambqhayde_480x640.jpeg", 
+    "upload_iezdqmrymezdkmzsgazdambqmmyde_480x853.jpeg", 
+    "upload_ie2dqzbxmqzdsodbgazdambqgiyde_480x800.jpg", 
+    "upload_ie2tomjxmeztamjtgazdambqhayde_480x852.jpeg", 
+    "upload_ie2gmobxmmztamjtgazdambqgiyde_480x852.jpeg", 
+    "upload_ie2tkmrwg42damjtgazdambqhayde_480x852.jpeg", 
+    "upload_ieytgztfha2damjtgazdambqmeyde_480x852.jpeg", 
+    "upload_ieywgoleg4zdsnzsgazdambqmeyde_480x640.jpeg", 
+    "upload_iezgkntfhezdsnzsgazdambqmmyde_480x640.jpeg"
+  ]
+}

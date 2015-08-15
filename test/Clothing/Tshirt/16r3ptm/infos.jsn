@@ -1,0 +1,43 @@
+{
+  "attrs": {
+    "图案": "小鸟", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,学院,街头,基本款"
+  }, 
+  "price_now": "68.60", 
+  "price_origin": "98.00", 
+  "product_comment": "5", 
+  "product_name": "MR.DJ韩版啄木鸟刺绣短袖T恤", 
+  "product_sale": 21, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hy6mw_ie2ggojwhbrdczrqgazdambqgiyde_750x1027.jpg", 
+    "1hy6mw_ieytizdbhbrdczrqgazdambqmeyde_750x589.jpg", 
+    "1hy6mw_ieztinjvhfrdczrqgazdambqgyyde_750x1039.jpg", 
+    "1hy6mw_ie2tkylbhfrdczrqgazdambqhayde_750x1021.jpg", 
+    "1hy6mw_iezgkyzzhfrdczrqgazdambqmmyde_750x800.jpg", 
+    "1hy6mw_iezdeojrmfrdczrqgazdambqmmyde_750x576.jpg", 
+    "1hy6mw_ie2gkyrxmfrdczrqgazdambqgiyde_750x972.jpg", 
+    "1hy6mw_iezdczlcmfrdczrqgazdambqmmyde_750x613.jpg", 
+    "1hy6mw_ie2wmnzrmjrdczrqgazdambqhayde_750x948.jpg", 
+    "1hy6mw_ieywmnrwmjrdczrqgazdambqmeyde_750x985.jpg", 
+    "1hy6mw_ie2wcmdfmjrdczrqgazdambqhayde_750x643.jpg", 
+    "1hy6mw_ie2wintcmnrdczrqgazdambqhayde_750x1033.jpg", 
+    "1hy6mw_ie2gimjrmrrdczrqgazdambqgiyde_750x955.jpg", 
+    "1hy6mw_ie2tqylbmrrdczrqgazdambqhayde_750x901.jpg", 
+    "1hy6mw_ieztmmlcmrrdczrqgazdambqgyyde_750x558.jpg", 
+    "1hy6mw_ieztoytemrrdczrqgazdambqgyyde_750x1003.jpg", 
+    "1hy6mw_ie2gezjymvrdczrqgazdambqgiyde_750x992.jpg", 
+    "1hy6mw_ieytanjymvrdczrqgazdambqmeyde_750x943.jpg", 
+    "1hy6mw_iezgezrxmvrdczrqgazdambqmmyde_750x488.jpg", 
+    "1hy6mw_ie2wcmrumzrdczrqgazdambqhayde_750x1074.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2wenjxmiydqzlfgazdambqhayde_480x648.jpg"
+  ]
+}

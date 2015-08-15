@@ -1,0 +1,36 @@
+{
+  "attrs": {
+    "图案": "字母,民族", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花,拼接", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,朋克,嬉皮,学院,街头"
+  }, 
+  "price_now": "110.40", 
+  "price_origin": "138.00", 
+  "product_comment": "13", 
+  "product_name": "15新款韩版修身男士短袖T恤", 
+  "product_sale": 2, 
+  "product_score": "5", 
+  "shop_images": [
+    "1a93hb_ie2dsobygi3ggolgmyytambqgiyde_750x1073.jpg", 
+    "1a93hb_ie2dcnjzgi3ggolgmyytambqgiyde_750x912.jpg", 
+    "1a93hb_iezgmolfgi3ggolgmyytambqmmyde_750x1343.jpg", 
+    "1a93hb_iezggmbrgm3ggolgmyytambqmmyde_750x948.jpg", 
+    "1a93hb_iezgmyzrgm3ggolgmyytambqmmyde_750x1185.jpg", 
+    "1a93hb_ieywmztggi3ggolgmyytambqmeyde_750x988.jpg", 
+    "1a93hb_ie2teyrwg43ggolgmyytambqhayde_750x1412.jpg", 
+    "1a93hb_iezdkmbxg43ggolgmyytambqmmyde_750x1058.jpg", 
+    "1a93hb_iezgizbxg43ggolgmyytambqmmyde_750x1060.jpg", 
+    "1a93hb_ieytezrzg43ggolgmyytambqmeyde_750x1498.jpg"
+  ], 
+  "user_images": [
+    "upload_ieywczdbmrswgojvgazdambqmeyde_480x640.jpg", 
+    "7ps_ie2gmmzugq3tenrtgazdambqgiyde_480x640.jpg", 
+    "7ps_ieztinrugq3tenrtgazdambqgyyde_480x852.jpg", 
+    "7ps_iezwcobugq3tenrtgazdambqgyyde_480x852.jpg"
+  ]
+}

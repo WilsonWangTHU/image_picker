@@ -1,0 +1,44 @@
+{
+  "attrs": {
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "拼接,撞色", 
+    "袖型": "常规袖 ", 
+    "袖长": "长袖 ", 
+    "领型": "V领 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "69.30", 
+  "price_origin": "99.00", 
+  "product_comment": "51", 
+  "product_name": "【时尚坊】新款男士针织长袖T恤", 
+  "product_sale": 19, 
+  "product_score": "4", 
+  "shop_images": [
+    "1iy5ur_ieztszjyhe4tcojqgazdambqgyyde_640x724.jpg", 
+    "1iy5ur_ie2tantgmi4tcojqgazdambqhayde_640x433.jpg", 
+    "1iy5ur_ie2winjsmq4tcojqgazdambqhayde_640x752.jpg", 
+    "1iy5ur_ie2gkmldmq4tcojqgazdambqgiyde_640x737.jpg", 
+    "1iy5ur_ieywmndgmu4tcojqgazdambqmeyde_640x811.jpg", 
+    "1iy5ur_ie2dqmjrmy4tcojqgazdambqgiyde_640x439.jpg", 
+    "1iy5ur_ie2ggytbgbqtcojqgazdambqgiyde_640x865.jpg", 
+    "1iy5ur_iezwmyjqgfqtcojqgazdambqgyyde_640x441.jpg", 
+    "1iy5ur_ie2taobvgjqtcojqgazdambqhayde_640x835.jpg", 
+    "1iy5ur_iezwgmdggjqtcojqgazdambqgyyde_640x828.jpg", 
+    "1iy5ur_iezgeylfgnqtcojqgazdambqmmyde_640x455.jpg", 
+    "1iy5ur_ieytmmbygvqtcojqgazdambqmeyde_640x839.jpg", 
+    "1iy5ur_iezdsojug5qtcojqgazdambqmmyde_640x892.jpg", 
+    "1iy5ur_ieztmmzyhfqtcojqgazdambqgyyde_640x811.jpg", 
+    "1iy5ur_ie2tqnlfmjqtcojqgazdambqhayde_640x728.jpg", 
+    "1iy5ur_ieztezrvmrqtcojqgazdambqgyyde_640x444.jpg", 
+    "1iy5ur_ieywgmrygbrdcojqgazdambqmeyde_640x785.jpg", 
+    "1iy5ur_ieztqzdbgjrdcojqgazdambqgyyde_640x776.jpg"
+  ], 
+  "user_images": [
+    "upload_iezdsyldmqzwmyjwgazdambqmmyde_480x640.jpg", 
+    "upload_iezdmmtemzrtknrvgazdambqmmyde_480x640.jpg", 
+    "upload_ie2gmztdheywkyjugazdambqgiyde_480x360.jpg", 
+    "upload_iezgcmrwmezdgobsgazdambqmmyde_480x852.jpeg", 
+    "1j1fqj_iezdanbqheytkyzrgazdambqmmyde_3840x2160.jpg"
+  ]
+}

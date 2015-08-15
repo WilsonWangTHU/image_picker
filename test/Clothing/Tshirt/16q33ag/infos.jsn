@@ -1,0 +1,24 @@
+{
+  "attrs": {
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "欧美"
+  }, 
+  "price_now": "69.30", 
+  "price_origin": "99.00", 
+  "product_comment": "1", 
+  "product_name": "夏季新款潮男彩色斑马T恤", 
+  "product_sale": 7, 
+  "product_score": "5", 
+  "shop_images": [
+    "1ho3y8_iezdgnjqmqzdqmlcmyytambqmmyde_750x1500.jpg"
+  ], 
+  "user_images": [
+    "upload_ieytkzjzmm4dmnlggazdambqmeyde_480x640.jpg", 
+    "upload_iezgmmdcga4tmnlggazdambqmmyde_480x640.jpg", 
+    "upload_ieytmztdgy4tmnlggazdambqmeyde_480x640.jpg"
+  ]
+}

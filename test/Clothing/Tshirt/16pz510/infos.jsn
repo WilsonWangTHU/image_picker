@@ -1,0 +1,35 @@
+{
+  "attrs": {
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "撞色", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "翻领 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "78.00", 
+  "price_origin": "104.00", 
+  "product_comment": "48", 
+  "product_name": "2015夏装男士短袖T恤", 
+  "product_sale": 134, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hhr7x_ie2tszbrhfrwiyzzmyytambqhayde_740x554.jpg", 
+    "1hhr7x_ie2dgyrshfrwiyzzmyytambqgiyde_740x765.jpg", 
+    "1hhr7x_iezdqnbthfrwiyzzmyytambqmmyde_740x1269.jpg", 
+    "1hhr7x_iezwimbuhfrwiyzzmyytambqgyyde_740x1321.jpg", 
+    "1hhr7x_ie2wmobwhfrwiyzzmyytambqhayde_740x702.jpg", 
+    "1hhr7x_ieytszbzhfrwiyzzmyytambqmeyde_740x1091.jpg", 
+    "1hhr7x_ie2gkn3bhfrwiyzzmyytambqgiyde_740x637.jpg", 
+    "1hhr7x_ieytanlfhfrwiyzzmyytambqmeyde_740x1242.jpg", 
+    "1hhr7x_ie2wmodfhfrwiyzzmyytambqhayde_740x761.jpg", 
+    "1hhr7x_ie2day3ghfrwiyzzmyytambqgiyde_740x1084.jpg", 
+    "1hhr7x_ie2wgzrsmfrwiyzzmyytambqhayde_740x619.jpg", 
+    "1hhr7x_ie2doyzumfrwiyzzmyytambqgiyde_740x719.jpg", 
+    "1hhr7x_ieztozrumfrwiyzzmyytambqgyyde_740x841.jpg"
+  ], 
+  "user_images": [
+    "uidd4_ieztknbvgztdqmbqgezdambqgyyde_2448x3264.jpg"
+  ]
+}

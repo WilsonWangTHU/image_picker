@@ -1,0 +1,40 @@
+{
+  "attrs": {
+    "图案": "字母,几何", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "水洗,印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,学院,运动,街头,基本款"
+  }, 
+  "price_now": "73.50", 
+  "price_origin": "105.00", 
+  "product_comment": "5", 
+  "product_name": "衣神前传春夏季新款男士短袖T恤", 
+  "product_sale": 10, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1ihfuv_ie2genrsheztgndgmyytambqgiyde_1000x628.jpg", 
+    "1ihfuv_ie2dsojtmiztgndgmyytambqgiyde_1000x609.jpg", 
+    "1ihfuv_ieywcyjsmqztgndgmyytambqmeyde_1000x996.jpg", 
+    "1ihfuv_iezwcztdmuztgndgmyytambqgyyde_1000x837.jpg", 
+    "1ihfuv_iezdmnzsmyztgndgmyytambqmmyde_1000x1167.jpg", 
+    "1ihfuv_ie2gknzvga2dgndgmyytambqgiyde_1000x1128.jpg", 
+    "1ihfuv_ieywintcga2dgndgmyytambqmeyde_1000x1134.jpg", 
+    "1ihfuv_ieztczrzge2dgndgmyytambqgyyde_1000x1212.jpg", 
+    "1ihfuv_ie2tcnrsgm2dgndgmyytambqhayde_1000x1260.jpg", 
+    "1ihfuv_iezdizjzgm2dgndgmyytambqmmyde_1000x1200.jpg", 
+    "1ihfuv_iezdcnjrgu2dgndgmyytambqmmyde_1000x1230.jpg", 
+    "1ihfuv_ie2ton3dgu2dgndgmyytambqhayde_1000x1244.jpg", 
+    "1ihfuv_ie2tiyrqgy2dgndgmyytambqhayde_1000x1203.jpg", 
+    "1ihfuv_ie2wcmzwg42dgndgmyytambqhayde_1000x993.jpg", 
+    "1ihfuv_ie2dmodbg42dgndgmyytambqgiyde_1000x1197.jpg", 
+    "1ihfuv_ie2day3dg42dgndgmyytambqgiyde_1000x1161.jpg", 
+    "1ihfuv_ieztinzsha2dgndgmyytambqgyyde_1000x1269.jpg"
+  ], 
+  "user_images": [
+    "upload_ieytcyztg43wemrzgazdambqmeyde_480x640.jpg"
+  ]
+}

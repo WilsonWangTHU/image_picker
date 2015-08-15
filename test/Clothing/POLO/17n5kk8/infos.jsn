@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "细节": "拼接", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 "
+  }, 
+  "price_now": "56.00", 
+  "price_origin": "112.00", 
+  "product_comment": "5", 
+  "product_name": "VLIFE 原创宫廷风POLO衫", 
+  "product_sale": 20, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "1g58oz_ieyton3cg5rtizrzgazdambqmeyde_750x500.jpg", 
+    "1g58oz_ie2wenbzmnrtizrzgazdambqhayde_750x500.jpg", 
+    "1g58oz_ie2dcyrwmfrtizrzgazdambqgiyde_750x500.jpg", 
+    "1g58oz_iezdsmrtmvrtizrzgazdambqmmyde_750x500.jpg", 
+    "1g58oz_iezdayjqmzrtizrzgazdambqmmyde_750x500.jpg", 
+    "1g58oz_ieywmnrygjsdizrzgazdambqmeyde_750x500.jpg", 
+    "1g58oz_ie2tkmdggnsdizrzgazdambqhayde_750x500.jpg", 
+    "1g58oz_ieztiyldgzsdizrzgazdambqgyyde_750x500.jpg", 
+    "1g58oz_ie2tsntdgvsdizrzgazdambqhayde_750x500.jpg"
+  ], 
+  "user_images": [
+    "1bbnyf_ie2tcmjyme4tqyjzgezdambqhayde_480x800.jpg"
+  ]
+}

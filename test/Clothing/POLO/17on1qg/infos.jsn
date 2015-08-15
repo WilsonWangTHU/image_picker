@@ -1,0 +1,29 @@
+{
+  "attrs": {
+    "图案": "纯色", 
+    "版型": "修身 ", 
+    "细节": "花领", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "59.40", 
+  "price_origin": "99.00", 
+  "product_comment": "14", 
+  "product_name": "DG男装花领短袖polo衫", 
+  "product_sale": 138, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1mqrj8_ie2tqyzzgrtdkzjrgezdambqhayde_640x640.jpg", 
+    "1mqrj8_ieywimtcgrtdkzjrgezdambqmeyde_640x633.jpg", 
+    "1mqrj8_ieztenddgrtdkzjrgezdambqgyyde_640x636.jpg", 
+    "1mqrj8_ieztqmdegrtdkzjrgezdambqgyyde_640x638.jpg", 
+    "1mqrj8_iezwkn3dgrtdkzjrgezdambqgyyde_640x637.jpg", 
+    "1mqrj8_iezgindfgrtdkzjrgezdambqmmyde_640x634.jpg", 
+    "1mqrj8_ieztmzdfgrtdkzjrgezdambqgyyde_640x637.jpg", 
+    "1mqrj8_ie2tiytfgrtdkzjrgezdambqhayde_640x638.jpg"
+  ], 
+  "user_images": [
+    "186u3y_ieywgzdgmezwinzqgizdambqmeyde_480x853.jpg"
+  ]
+}

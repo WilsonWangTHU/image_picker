@@ -1,0 +1,41 @@
+{
+  "attrs": {
+    "上市时间": "2015年", 
+    "厚薄": "常规", 
+    "基础风格": "青春流行", 
+    "尺码": "尺码偏小哦! 170/84A 175/88A 180/92A 185/96A", 
+    "材质": "棉", 
+    "版型": "修身", 
+    "细分风格": "精致韩风", 
+    "袖型": "常规", 
+    "袖长": "短袖", 
+    "适用场景": "其他休闲", 
+    "适用季节": "夏季", 
+    "适用对象": "青少年", 
+    "面料材质": "棉 ", 
+    "颜色": "黑色", 
+    "风格": "日韩,嬉皮"
+  }, 
+  "price_now": "68.60", 
+  "price_origin": "98.00", 
+  "product_comment": "43", 
+  "product_name": "Pro 男士休闲潮男短袖T恤", 
+  "product_sale": 182, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1hjsfj_ie2tgobqha3tcy3dgazdambqhayde_800x800.jpg", 
+    "1hjsfj_iezwcnzuha3tcy3dgazdambqgyyde_800x800.jpg", 
+    "1hjsfj_ie2gemjyha3tcy3dgazdambqgiyde_800x800.jpg", 
+    "1hjsfj_ie2wkmbqhe3tcy3dgazdambqhayde_800x800.jpg"
+  ], 
+  "user_images": [
+    "1ljb1x_ie2toyjygjqtayjxgezdambqhayde_544x960.jpg", 
+    "7ps_iezgimrugbsdmojsgezdambqmmyde_480x360.jpg", 
+    "fhxwz_ie2dmnrrmiytimzvgezdambqgiyde_480x852.jpg", 
+    "7ps_iezgmztdgzsgmzbtgezdambqmmyde_480x640.jpg", 
+    "upload_ieztsojrg5sdoylggazdambqgyyde_480x360.jpg", 
+    "7ps_iezgiobrmuydmyjrgezdambqmmyde_480x360.jpg", 
+    "7ps_ie2wmmrrmuydmyjrgezdambqhayde_480x640.jpg", 
+    "7ps_ieztqmrygu2wgyzsgezdambqgyyde_480x640.jpg"
+  ]
+}

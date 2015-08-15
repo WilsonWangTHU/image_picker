@@ -1,0 +1,38 @@
+{
+  "attrs": {
+    "图案": "纯色", 
+    "版型": "修身 ", 
+    "细节": "绣花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,街头,青春活力"
+  }, 
+  "price_now": "88.20", 
+  "price_origin": "126.00", 
+  "product_comment": "2", 
+  "product_name": "男士修身绣花百搭短袖Polo衫", 
+  "product_sale": 4, 
+  "product_score": "5", 
+  "shop_images": [
+    "1j5ho0_ieytmnjrmiydamztgazdambqmeyde_750x500.jpg", 
+    "1j5ho0_ieztemjsmiydamztgazdambqgyyde_750x700.jpg", 
+    "1j5ho0_ie2gczbtmiydamztgazdambqgiyde_750x700.jpg", 
+    "1j5ho0_iezwgmjxmiydamztgazdambqgyyde_750x700.jpg", 
+    "1j5ho0_ie2teobxmiydamztgazdambqhayde_750x500.jpg", 
+    "1j5ho0_ieztsztbmiydamztgazdambqgyyde_750x700.jpg", 
+    "1j5ho0_ieytsolfmiydamztgazdambqmeyde_750x700.jpg", 
+    "1j5ho0_iezdqylgmiydamztgazdambqmmyde_750x700.jpg", 
+    "1j5ho0_ie2wiyrqmmydamztgazdambqhayde_750x500.jpg", 
+    "1j5ho0_ie2wkobsmmydamztgazdambqhayde_750x700.jpg", 
+    "1j5ho0_ie2tknzxmmydamztgazdambqhayde_750x700.jpg", 
+    "1j5ho0_iezdoyrxmmydamztgazdambqmmyde_750x700.jpg", 
+    "1j5ho0_ieytgojzmmydamztgazdambqmeyde_750x500.jpg", 
+    "1j5ho0_iezdsnlemmydamztgazdambqmmyde_750x700.jpg", 
+    "1j5ho0_ie2wgolfmmydamztgazdambqhayde_750x700.jpg", 
+    "1j5ho0_ie2wcztgmmydamztgazdambqhayde_750x700.jpg"
+  ], 
+  "user_images": [
+    "1nbnmn_ieywknddmfstanrvgezdambqmeyde_1958x2448.jpg"
+  ]
+}

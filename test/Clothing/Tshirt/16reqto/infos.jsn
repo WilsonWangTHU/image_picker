@@ -1,0 +1,35 @@
+{
+  "attrs": {
+    "主要颜色": "白色 灰色", 
+    "尺码": "S M L XL 2XL", 
+    "服装版型": "修身", 
+    "衣长": "常规", 
+    "袖型": "常规", 
+    "袖长": "短袖", 
+    "领型": "圆领", 
+    "风格": "甜美"
+  }, 
+  "price_now": "61.60", 
+  "price_origin": "88.00", 
+  "product_comment": "7", 
+  "product_name": "情侣装短袖T恤纯棉卡通印花男", 
+  "product_sale": 6, 
+  "product_score": "4.4", 
+  "shop_images": [
+    "1ikz9i_ieztkolfgizdcojsgazdambqgyyde_750x751.jpg", 
+    "1ikz9i_ieytgmzrgmzdcojsgazdambqmeyde_750x907.jpg", 
+    "1ikz9i_ie2dcmbugmzdcojsgazdambqgiyde_750x1207.jpg", 
+    "1ikz9i_ie2dayjxgmzdcojsgazdambqgiyde_750x1334.jpg", 
+    "1ikz9i_ieztcmtcgmzdcojsgazdambqgyyde_750x949.jpg", 
+    "1ikz9i_iezgintdgmzdcojsgazdambqmmyde_750x1009.jpg", 
+    "1ikz9i_ieyweztfgmzdcojsgazdambqmeyde_750x1375.jpg", 
+    "1ikz9i_ie2temztgqzdcojsgazdambqhayde_750x1405.jpg", 
+    "1ikz9i_iezdozbvgqzdcojsgazdambqmmyde_750x1225.jpg", 
+    "1ikz9i_ie2donzzgqzdcojsgazdambqgiyde_750x1226.jpg", 
+    "1ikz9i_ie2gkzdcgqzdcojsgazdambqgiyde_750x1225.jpg"
+  ], 
+  "user_images": [
+    "upload_ieywinzvmy4wczjwgazdambqmeyde_480x640.jpg", 
+    "7ps_iezdmntdg4ydgyzvgazdambqmmyde_480x640.jpg"
+  ]
+}

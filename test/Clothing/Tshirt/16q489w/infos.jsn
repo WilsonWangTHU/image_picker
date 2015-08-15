@@ -1,0 +1,33 @@
+{
+  "attrs": {
+    "图案": "复古民族风", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "69.00", 
+  "price_origin": "92.00", 
+  "product_comment": "22", 
+  "product_name": "2015夏韩版男士短袖T恤", 
+  "product_sale": 49, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1hhr7x_iezdcn3cgu2tsntcmyytambqmmyde_740x1030.jpg", 
+    "1hhr7x_ieytintdgu2tsntcmyytambqmeyde_740x1073.jpg", 
+    "1hhr7x_ie2taoddgu2tsntcmyytambqhayde_740x941.jpg", 
+    "1hhr7x_iezwkztdgu2tsntcmyytambqgyyde_740x1159.jpg", 
+    "1hhr7x_ie2wendegu2tsntcmyytambqhayde_740x965.jpg", 
+    "1hhr7x_ie2ggmdfgu2tsntcmyytambqgiyde_740x1245.jpg", 
+    "1hhr7x_ieytkmtfgu2tsntcmyytambqmeyde_740x947.jpg", 
+    "1hhr7x_iezdoojzg42tsntcmyytambqmmyde_740x559.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2dsnlfmq4tcmzrgezdambqgiyde_480x360.jpg", 
+    "7ps_iezdintfmq4tcmzrgezdambqmmyde_480x640.jpg", 
+    "7ps_ieztkobzhfrtazdcgazdambqgyyde_480x360.jpg", 
+    "7ps_iezwcyjzhfrtazdcgazdambqgyyde_480x641.jpg"
+  ]
+}

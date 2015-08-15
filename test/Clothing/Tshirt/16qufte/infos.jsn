@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "52.20", 
+  "price_origin": "58.00", 
+  "product_comment": "4", 
+  "product_name": "个性植物花印花修身男士短袖T恤", 
+  "product_sale": 3, 
+  "product_score": "5", 
+  "shop_images": [
+    "1hp6xn_ie2dgnzxme4tsolgmyytambqgiyde_750x1302.jpg", 
+    "1hp6xn_ieytin3gmy4tsolgmyytambqmeyde_750x1206.jpg", 
+    "1hp6xn_iezgkmbsmnqtsolgmyytambqmmyde_750x1201.jpg", 
+    "1hp6xn_ieztomjvgbrdsolgmyytambqgyyde_750x1134.jpg", 
+    "1hp6xn_ieyweztegvrdsolgmyytambqmeyde_750x1260.jpg", 
+    "1hp6xn_ie2tamjymjrdsolgmyytambqhayde_750x1171.jpg", 
+    "1hp6xn_ieytoyrzmzrdsolgmyytambqmeyde_750x1194.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2dintcmvrdgyrugazdambqgiyde_480x639.jpg"
+  ]
+}

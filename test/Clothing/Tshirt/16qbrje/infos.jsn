@@ -1,0 +1,24 @@
+{
+  "attrs": {
+    "图案": "字母", 
+    "材质": "棉 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 "
+  }, 
+  "price_now": "54.60", 
+  "price_origin": "78.00", 
+  "product_comment": "34", 
+  "product_name": "英伦风男士修身印花T恤", 
+  "product_sale": 60, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1f60k_ie2wcmrrgqydqzlgmyytambqhayde_640x445.jpg", 
+    "1f60k_ie2dcylcgmydqzlgmyytambqgiyde_640x442.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2geojrmjtgknjqgizdambqgiyde_480x640.jpg", 
+    "7ps_iezgeobygi2tqyjsgezdambqmmyde_480x640.jpg", 
+    "1ksqjf_ieywintfgfrdinlggazdambqmeyde_2448x2448.jpg", 
+    "1ksqjf_iezdemddmvqtinlggazdambqmmyde_2448x2448.jpg"
+  ]
+}

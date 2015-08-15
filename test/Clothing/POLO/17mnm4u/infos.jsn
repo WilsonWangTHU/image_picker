@@ -1,0 +1,29 @@
+{
+  "attrs": {
+    "图案": "波点", 
+    "版型": "修身", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "面料材质": "棉", 
+    "风格": "基本款"
+  }, 
+  "price_now": "42.50", 
+  "price_origin": "85.00", 
+  "product_comment": "66", 
+  "product_name": "夏季波点系列 清爽POLO衫", 
+  "product_sale": 170, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1hw3uw_ie2wmojzgvrgiojxgazdambqhayde_790x981.jpg", 
+    "1hw3uw_ieywkmdcgvrgiojxgazdambqmeyde_790x1462.jpg"
+  ], 
+  "user_images": [
+    "1jagl5_ieztiyjsgu3dazdbgezdambqgyyde_1088x489.jpg", 
+    "upload_ieytmm3dgezdkmzvgezdambqmeyde_480x640.jpg", 
+    "7ps_ieytaojzgbtdmyzsgezdambqmeyde_480x640.jpg", 
+    "upload_ie2dsnbygfsdsnlegazdambqgiyde_480x355.jpg", 
+    "7ps_ie2tqnrvgjtdqzbrgezdambqhayde_480x640.jpg", 
+    "7ps_iezdozrzguzdqzbygazdambqmmyde_480x854.jpg", 
+    "7ps_ieztsojzguzdqzbygazdambqgyyde_480x854.jpg"
+  ]
+}

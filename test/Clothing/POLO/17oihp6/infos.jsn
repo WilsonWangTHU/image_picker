@@ -1,0 +1,39 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "细节": "拼接", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,学院,运动,民族,街头,基本款"
+  }, 
+  "price_now": "69.30", 
+  "price_origin": "99.00", 
+  "product_comment": "2", 
+  "product_name": "男士夏季拼接莱卡棉短袖polo衫", 
+  "product_sale": 18, 
+  "product_score": "5", 
+  "shop_images": [
+    "1iayng_ieytezrrgmzgcmzrgezdambqmeyde_750x837.jpg", 
+    "1iayng_iezwgolcgmzgcmzrgezdambqgyyde_750x735.jpg", 
+    "1iayng_iezwgyrwgmzgcmzrgezdambqgyyde_750x714.jpg", 
+    "1iayng_ieyweyzqgqzgcmzrgezdambqmeyde_750x714.jpg", 
+    "1iayng_ieytomrwgqzgcmzrgezdambqmeyde_750x810.jpg", 
+    "1iayng_ie2tmm3egqzgcmzrgezdambqhayde_750x690.jpg", 
+    "1iayng_iezgiojrguzgcmzrgezdambqmmyde_750x750.jpg", 
+    "1iayng_iezdgmjxguzgcmzrgezdambqmmyde_750x789.jpg", 
+    "1iayng_ie2wky3eguzgcmzrgezdambqhayde_750x750.jpg", 
+    "1iayng_iezdgnrsgyzgcmzrgezdambqmmyde_750x723.jpg", 
+    "1iayng_ie2doyjxgyzgcmzrgezdambqgiyde_750x762.jpg", 
+    "1iayng_ie2dazdemezgcmzrgezdambqgiyde_750x1038.jpg", 
+    "1iayng_ieytozrxmizgcmzrgezdambqmeyde_750x773.jpg", 
+    "1iayng_ie2gcmddmizgcmzrgezdambqgiyde_750x928.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2wmy3dgvsdgoldgezdambqhayde_480x640.jpg", 
+    "7ps_ie2dsytdgvsdgoldgezdambqgiyde_480x640.jpg", 
+    "1nmtbx_ie2dkmdcg4ytmodbgezdambqgiyde_480x640.jpg", 
+    "1nmtbx_ie2gkmbsmiytmodbgezdambqgiyde_480x640.jpg", 
+    "1nmtbx_ie2gcmbwmyytmodbgezdambqgiyde_480x360.jpg"
+  ]
+}

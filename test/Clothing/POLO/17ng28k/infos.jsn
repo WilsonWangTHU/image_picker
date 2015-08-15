@@ -1,0 +1,27 @@
+{
+  "attrs": {
+    "图案": "字母logo", 
+    "版型": "修身 ", 
+    "细节": "拼接,纽扣", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "59.50", 
+  "price_origin": "85.00", 
+  "product_comment": "18", 
+  "product_name": "潮者√韩版商务休闲POLO衫", 
+  "product_sale": 56, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1kmsrz_ie2dcmzzgi4dan3cgazdambqgiyde_880x1044.jpg", 
+    "1kmsrz_ie2gentdgi4dan3cgazdambqgiyde_880x1073.jpg", 
+    "1kmsrz_ie2tsntfgi4dan3cgazdambqhayde_880x1089.jpg", 
+    "1kmsrz_iezwimlggi4dan3cgazdambqgyyde_880x598.jpg", 
+    "1kmsrz_ie2dszrsgm4dan3cgazdambqgiyde_880x774.jpg", 
+    "1kmsrz_iezwkyztgm4dan3cgazdambqgyyde_880x652.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2dmntdmrsgmmdggazdambqgiyde_480x640.jpg"
+  ]
+}

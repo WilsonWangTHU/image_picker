@@ -1,0 +1,37 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "细节": "水洗,绣花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,复古,学院,运动,街头,基本款"
+  }, 
+  "price_now": "69.00", 
+  "price_origin": "230.00", 
+  "product_comment": "4", 
+  "product_name": "小清新撞色小天鹅刺绣POLO衫", 
+  "product_sale": 43, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1iayng_ie2wiobvmiygkzjugezdambqhayde_676x605.jpg", 
+    "1iayng_ieywgnzymiygkzjugezdambqmeyde_686x622.jpg", 
+    "1iayng_ie2dszlcmiygkzjugezdambqgiyde_676x618.jpg", 
+    "1iayng_ie2winlgmiygkzjugezdambqhayde_676x593.jpg", 
+    "1iayng_ie2domrtmmygkzjugezdambqgiyde_676x615.jpg", 
+    "1iayng_ieztgzjzmmygkzjugezdambqgyyde_676x612.jpg", 
+    "1iayng_ie2tmn3emmygkzjugezdambqhayde_687x606.jpg", 
+    "1iayng_iezgcmbrmqygkzjugezdambqmmyde_680x610.jpg", 
+    "1iayng_ieytmobumqygkzjugezdambqmeyde_687x605.jpg", 
+    "1iayng_ie2wcm3bmqygkzjugezdambqhayde_687x611.jpg", 
+    "1iayng_ieztgzrvmuygkzjugezdambqgyyde_700x616.jpg", 
+    "1iayng_ie2tkmzzmuygkzjugezdambqhayde_700x615.jpg", 
+    "1iayng_ie2gizdfmuygkzjugezdambqgiyde_700x604.jpg", 
+    "1iayng_iezdmnrumyygkzjugezdambqmmyde_694x606.jpg", 
+    "1iayng_ie2teyjwmyygkzjugezdambqhayde_694x619.jpg", 
+    "1iayng_ieytkzbzmyygkzjugezdambqmeyde_694x604.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2dqm3gme2dmy3fgezdambqgiyde_480x640.jpg"
+  ]
+}

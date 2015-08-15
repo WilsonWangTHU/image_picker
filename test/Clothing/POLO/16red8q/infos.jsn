@@ -1,0 +1,38 @@
+{
+  "attrs": {
+    "版型": "修身", 
+    "细节": "印花", 
+    "袖长": "长袖", 
+    "面料材质": "牛津纺（青年布）", 
+    "领型": "扣领尖领 ,扣领尖领", 
+    "风格": "日韩,学院,小清新"
+  }, 
+  "price_now": "87.50", 
+  "price_origin": "125.00", 
+  "product_comment": "1", 
+  "product_name": "【潮衣社】小清新衬衫", 
+  "product_sale": 0, 
+  "product_score": "5", 
+  "shop_images": [
+    "1jd7bg_iezggmlgmy3dmobsgazdambqmmyde_750x550.jpg", 
+    "1jd7bg_ie2tmnjsga3tmobsgazdambqhayde_640x960.jpg", 
+    "1jd7bg_iezdknjvga3tmobsgazdambqmmyde_640x960.jpg", 
+    "1jd7bg_iezdqobyga3tmobsgazdambqmmyde_640x960.jpg", 
+    "1jd7bg_ieztamddga3tmobsgazdambqgyyde_640x960.jpg", 
+    "1jd7bg_ieztizlega3tmobsgazdambqgyyde_643x487.jpg", 
+    "1jd7bg_ieztmmbrge3tmobsgazdambqgyyde_640x960.jpg", 
+    "1jd7bg_ie2dgzjtge3tmobsgazdambqgiyde_640x960.jpg", 
+    "1jd7bg_ie2daojxge3tmobsgazdambqgiyde_640x960.jpg", 
+    "1jd7bg_ieztcm3cge3tmobsgazdambqgyyde_640x960.jpg", 
+    "1jd7bg_iezdemdfge3tmobsgazdambqmmyde_640x960.jpg", 
+    "1jd7bg_ieytkzdgge3tmobsgazdambqmeyde_650x475.jpg", 
+    "1jd7bg_ieyweobsgi3tmobsgazdambqmeyde_640x960.jpg", 
+    "1jd7bg_iezdazrugi3tmobsgazdambqmmyde_640x960.jpg", 
+    "1jd7bg_iezdezbwgi3tmobsgazdambqmmyde_645x490.jpg", 
+    "1jd7bg_ieztcmtbgi3tmobsgazdambqgyyde_647x490.jpg", 
+    "1jd7bg_ie2gkzlegi3tmobsgazdambqgiyde_747x647.jpg"
+  ], 
+  "user_images": [
+    "upload_ieztizdeg5rdczrygazdambqgyyde_480x854.jpg"
+  ]
+}

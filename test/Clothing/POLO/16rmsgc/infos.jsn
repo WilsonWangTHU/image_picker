@@ -1,0 +1,25 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "民族"
+  }, 
+  "price_now": "65.10", 
+  "price_origin": "93.00", 
+  "product_comment": "3", 
+  "product_name": "立体修身型男士polo衫", 
+  "product_sale": 7, 
+  "product_score": "5", 
+  "shop_images": [
+    "rfbkx_ie2tazldhbqwcyztgazdambqhayde_1000x1500.jpg", 
+    "rfbkx_ieytizdfmnqwcyztgazdambqmeyde_1000x1500.jpg", 
+    "rfbkx_iezwkzrwmvqwcyztgazdambqgyyde_1000x1500.jpg", 
+    "rfbkx_ieywkzlbmzqwcyztgazdambqmeyde_1000x1500.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2tayrzhazwimdcgazdambqhayde_480x647.jpg"
+  ]
+}

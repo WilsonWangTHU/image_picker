@@ -1,0 +1,25 @@
+{
+  "attrs": {
+    "版型": "修身", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "面料材质": "棉"
+  }, 
+  "price_now": "75.60", 
+  "price_origin": "108.00", 
+  "product_comment": "3", 
+  "product_name": "韩版纯棉翻领修身短袖polo衫", 
+  "product_sale": 3, 
+  "product_score": "5", 
+  "shop_images": [
+    "1hw86s_iezdsmbqmiytgmrsgazdambqmmyde_640x960.jpg", 
+    "1hw86s_iezwgmrsgqytgmrsgazdambqgyyde_640x960.jpg", 
+    "1hw86s_iezdozbygazdgmrsgazdambqmmyde_640x960.jpg"
+  ], 
+  "user_images": [
+    "upload_ieztsytfgqzwmolggazdambqgyyde_480x640.jpg", 
+    "upload_ieytiyjrmrqtkntdgazdambqmeyde_480x853.jpg", 
+    "upload_ie2gczbzmvqtkntdgazdambqgiyde_480x853.jpg", 
+    "upload_ieztqzrumrtdkntdgazdambqgyyde_480x853.jpg"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 "
+  }, 
+  "price_now": "80.00", 
+  "price_origin": "114.29", 
+  "product_comment": "18", 
+  "product_name": "夏季新款韩版修身男士POLO衫", 
+  "product_sale": 14, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "1jot4c_ieytemtege4dmmrugazdambqmeyde_750x867.jpg", 
+    "1jot4c_iezgiztgge4dmmrugazdambqmmyde_750x582.jpg", 
+    "1jot4c_ie2wembtgi4dmmrugazdambqhayde_750x704.jpg", 
+    "1jot4c_iezgmzrvgi4dmmrugazdambqmmyde_750x789.jpg", 
+    "1jot4c_ieytcn3bgi4dmmrugazdambqmeyde_750x853.jpg", 
+    "1jot4c_ie2wgzbxgi4dmmrugazdambqhayde_750x792.jpg", 
+    "1jot4c_ieytgntegi4dmmrugazdambqmeyde_750x824.jpg", 
+    "1jot4c_ieztqn3ggi4dmmrugazdambqgyyde_750x835.jpg", 
+    "1jot4c_ieztsnbrgm4dmmrugazdambqgyyde_750x878.jpg", 
+    "1jot4c_iezgcnjtgm4dmmrugazdambqmmyde_750x783.jpg", 
+    "1jot4c_ie2damrvgm4dmmrugazdambqgiyde_750x786.jpg"
+  ], 
+  "user_images": [
+    "upload_ieytemzygbsgcmtcgazdambqmeyde_480x640.jpg", 
+    "upload_ie2tcmrqmu4dgodbgazdambqhayde_480x853.jpg", 
+    "upload_iezdamrrgm4tgodbgazdambqmmyde_480x853.jpg"
+  ]
+}

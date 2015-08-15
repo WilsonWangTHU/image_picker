@@ -1,0 +1,41 @@
+{
+  "attrs": {
+    "材质": "棉", 
+    "版型": "修身", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "领型": "翻领"
+  }, 
+  "price_now": "69.00", 
+  "price_origin": "92.00", 
+  "product_comment": "8", 
+  "product_name": "自由橙 新款男装针织短袖Polo衫", 
+  "product_sale": 81, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1i9t0l_ie2tszrrgy2ten3cgazdambqhayde_640x426.jpg", 
+    "1i9t0l_iezdoobtgy2ten3cgazdambqmmyde_640x426.jpg", 
+    "1i9t0l_ie2dsmjwgy2ten3cgazdambqgiyde_640x426.jpg", 
+    "1i9t0l_ieztezbzgy2ten3cgazdambqgyyde_640x960.jpg", 
+    "1i9t0l_ie2dkmdegy2ten3cgazdambqgiyde_640x960.jpg", 
+    "1i9t0l_ieztgylggy2ten3cgazdambqgyyde_640x960.jpg", 
+    "1i9t0l_ieytoyrsg42ten3cgazdambqmeyde_640x960.jpg", 
+    "1i9t0l_ie2tanzvg42ten3cgazdambqhayde_640x960.jpg", 
+    "1i9t0l_ie2dombzg42ten3cgazdambqgiyde_640x426.jpg", 
+    "1i9t0l_ie2giylcg42ten3cgazdambqgiyde_640x960.jpg", 
+    "1i9t0l_ieytandfg42ten3cgazdambqmeyde_640x960.jpg", 
+    "1i9t0l_ieytizrsha2ten3cgazdambqmeyde_640x960.jpg", 
+    "1i9t0l_iezdgmjwha2ten3cgazdambqmmyde_640x426.jpg", 
+    "1i9t0l_ieztsobyha2ten3cgazdambqgyyde_640x960.jpg", 
+    "1i9t0l_ieyweodbha2ten3cgazdambqmeyde_640x960.jpg", 
+    "1i9t0l_iezdsnrthaytcodcgazdambqmmyde_640x640.jpg", 
+    "1i9t0l_ie2wmyzthaytcodcgazdambqhayde_640x619.jpg", 
+    "1i9t0l_iezdizbuhaytcodcgazdambqmmyde_640x576.jpg", 
+    "1i9t0l_iezdmnrvhaytcodcgazdambqmmyde_640x720.jpg"
+  ], 
+  "user_images": [
+    "3c1p7_ieztkmtgmu3taodggezdambqgyyde_480x270.jpg", 
+    "3c1p7_ie2dcndcgfqtaodggezdambqgiyde_480x270.jpg", 
+    "1n6bnb_ie2tsojugizwgmrxgezdambqhayde_480x648.jpg"
+  ]
+}

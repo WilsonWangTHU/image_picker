@@ -1,0 +1,27 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "朋克"
+  }, 
+  "price_now": "63.00", 
+  "price_origin": "90.00", 
+  "product_comment": "18", 
+  "product_name": "立体修身型男士短袖polo衫", 
+  "product_sale": 58, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "rfbkx_ie2dmmzugq2tazjrgazdambqgiyde_1000x1500.jpg", 
+    "rfbkx_iezdeyzqg42tazjrgazdambqmmyde_1000x1500.jpg", 
+    "rfbkx_ieytiylcge3dazjrgazdambqmeyde_1000x1500.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2gmmdehazwkzbygazdambqgiyde_480x360.jpg", 
+    "7ps_ie2ggzddgzsdmzbsgazdambqgiyde_480x360.jpg", 
+    "7ps_ie2gkztdgzsdmzbsgazdambqgiyde_480x360.jpg"
+  ]
+}

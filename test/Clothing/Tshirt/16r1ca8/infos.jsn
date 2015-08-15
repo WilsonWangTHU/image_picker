@@ -1,0 +1,39 @@
+{
+  "attrs": {
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "拼接,撞色", 
+    "袖型": "常规袖 ", 
+    "袖长": "长袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,街头"
+  }, 
+  "price_now": "69.30", 
+  "price_origin": "99.00", 
+  "product_comment": "53", 
+  "product_name": "【时尚坊】修身拼色男士长袖T恤", 
+  "product_sale": 28, 
+  "product_score": "4.4", 
+  "shop_images": [
+    "1iy5ur_ieztqojtgmzwiojqgazdambqgyyde_800x800.jpg", 
+    "1iy5ur_ieywknryhezwiojqgazdambqmeyde_659x901.jpg", 
+    "1iy5ur_iezgkmbrmizwiojqgazdambqmmyde_668x897.jpg", 
+    "1iy5ur_ieztombrmqzwiojqgazdambqgyyde_662x878.jpg", 
+    "1iy5ur_iezdgnzwmuzwiojqgazdambqmmyde_716x876.jpg", 
+    "1iy5ur_ieytsmzygi2giojqgazdambqmeyde_741x835.jpg", 
+    "1iy5ur_ie2wkmrqgq2giojqgazdambqhayde_800x800.jpg", 
+    "1iy5ur_iezginjvmi2giojqgazdambqmmyde_658x884.jpg", 
+    "1iy5ur_iezdsolemm2giojqgazdambqmmyde_800x800.jpg", 
+    "1iy5ur_ie2wmmrrga2wiojqgazdambqhayde_726x544.jpg", 
+    "1iy5ur_ie2domrugi2wiojqgazdambqgiyde_711x843.jpg", 
+    "1iy5ur_ie2giytbgm2wiojqgazdambqgiyde_748x573.jpg"
+  ], 
+  "user_images": [
+    "upload_ieztcojygqywgy3bgazdambqgyyde_480x360.jpg", 
+    "upload_iezdandgheywgy3bgazdambqmmyde_480x640.jpg", 
+    "upload_ie2wczlbmqywgy3bgazdambqhayde_480x640.jpg", 
+    "7ps_ieytgnjqgu4wen3bgazdambqmeyde_480x641.jpg", 
+    "7ps_iezwcmbyhfqwen3bgazdambqgyyde_480x641.jpg", 
+    "7ps_ie2gcmbqgi2dqmrtgazdambqgiyde_480x720.jpg"
+  ]
+}

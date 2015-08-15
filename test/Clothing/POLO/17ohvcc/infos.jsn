@@ -1,0 +1,43 @@
+{
+  "attrs": {
+    "图案": "字母", 
+    "版型": "修身 ", 
+    "细节": "纽扣", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,商务"
+  }, 
+  "price_now": "35.00", 
+  "price_origin": "50.00", 
+  "product_comment": "21", 
+  "product_name": "韩版男士修身Polo衫", 
+  "product_sale": 117, 
+  "product_score": "4.6", 
+  "shop_images": [
+    "losqq_ie2gmyzvgiydkmjrgezdambqgiyde_790x521.jpg", 
+    "losqq_iezggnjvguydkmjrgezdambqmmyde_790x431.jpg", 
+    "losqq_iezgcmzug4ydkmjrgezdambqmmyde_790x396.jpg", 
+    "losqq_ieytgyztheydkmjrgezdambqmeyde_790x852.jpg", 
+    "losqq_iezdizjqmiydkmjrgezdambqmmyde_790x775.jpg", 
+    "losqq_ie2tqmtbmmydkmjrgezdambqhayde_790x914.jpg", 
+    "losqq_ie2ggodcmuydkmjrgezdambqgiyde_790x990.jpg", 
+    "losqq_ie2dgobwgaytkmjrgezdambqgiyde_790x703.jpg", 
+    "losqq_iezgeojvgiytkmjrgezdambqmmyde_790x698.jpg", 
+    "losqq_iezwiyrugqytkmjrgezdambqgyyde_790x991.jpg", 
+    "losqq_ieytgzbygyytkmjrgezdambqmeyde_790x808.jpg", 
+    "losqq_iezgmnrxhaytkmjrgezdambqmmyde_790x833.jpg", 
+    "losqq_ieytoyjrmeytkmjrgezdambqmeyde_790x923.jpg", 
+    "losqq_iezgey3dmiytkmjrgezdambqmmyde_790x985.jpg", 
+    "losqq_iezgkyrwmqytkmjrgezdambqmmyde_790x775.jpg", 
+    "losqq_iezwmmjtmyytkmjrgezdambqgyyde_790x1048.jpg", 
+    "losqq_ie2dsm3fgazdkmjrgezdambqgiyde_790x784.jpg", 
+    "losqq_ieztkmbzgizdkmjrgezdambqgyyde_790x833.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieztsyzqmnqwkzrwgezdambqgyyde_480x640.jpg", 
+    "7ps_ieztimbyg4ygmzrwgezdambqgyyde_480x640.jpg", 
+    "7ps_ieytomrrmjrtcmrygizdambqmeyde_1080x1456.jpg", 
+    "7ps_ieztqmrsmjrtcmrygizdambqgyyde_1080x800.jpg"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "图案": "动物,猫", 
+    "材质": "棉 ", 
+    "版型": "宽松 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "欧美,复古,学院,民族,街头"
+  }, 
+  "price_now": "69.00", 
+  "price_origin": "138.00", 
+  "product_comment": "29", 
+  "product_name": "蒙面猫卡通印花男式短袖T恤", 
+  "product_sale": 81, 
+  "product_score": "4.6", 
+  "shop_images": [
+    "1i8xk3_iezgcnlegqzgkobrgazdambqmmyde_750x1428.jpg", 
+    "1i8xk3_ieytgyjug4zgkobrgazdambqmeyde_750x1428.jpg"
+  ], 
+  "user_images": [
+    "1cyxjd_iezwgyzsmrrdgndbgezdambqgyyde_480x640.jpg", 
+    "1cyxjd_ieywmy3emvrdgndbgezdambqmeyde_480x640.jpg", 
+    "1cyxjd_ie2tcnbzgjrtgndbgezdambqhayde_480x640.jpg", 
+    "sqski_ie2diyrrgy4gkobsgizdambqgiyde_480x640.jpg"
+  ]
+}

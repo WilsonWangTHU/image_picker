@@ -1,0 +1,30 @@
+{
+  "attrs": {
+    "图案": "植物花卉", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "时尚都市"
+  }, 
+  "price_now": "110.40", 
+  "price_origin": "138.00", 
+  "product_comment": "79", 
+  "product_name": "男士时尚纯棉短袖翻领修身polo衫", 
+  "product_sale": 115, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1lpc5l_ieytemjzhaztsmbxgezdambqmeyde_790x923.jpg", 
+    "1lpc5l_ieywgyldmeztsmbxgezdambqmeyde_790x826.jpg", 
+    "1lpc5l_iezwenzqge2dsmbxgezdambqgyyde_790x828.jpg", 
+    "1lpc5l_ieztsnbumq2dsmbxgezdambqgyyde_790x828.jpg"
+  ], 
+  "user_images": [
+    "1jlhbo_iezwkzrvgjstgnjqgezdambqgyyde_296x400.jpg", 
+    "1jlhbo_ie2tmnjqmfsdgnjqgezdambqhayde_301x401.jpg", 
+    "1jlhbo_ieztszbrg5sdgnjqgezdambqgyyde_298x400.jpg", 
+    "1jlhbo_ie2tszlbgi3wkzbrgezdambqhayde_304x402.jpg", 
+    "1jlhbo_ie2ginjyge3wkzbrgezdambqgiyde_402x300.jpg"
+  ]
+}

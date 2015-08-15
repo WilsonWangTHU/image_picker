@@ -1,0 +1,23 @@
+{
+  "attrs": {
+    "材质": "棉 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 "
+  }, 
+  "price_now": "34.13", 
+  "price_origin": "56.89", 
+  "product_comment": "39", 
+  "product_name": "韩国原单基本款修身T恤", 
+  "product_sale": 65, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1f60k_iezdgm3dmnqtkylggazdambqmmyde_790x1032.jpg", 
+    "1f60k_ieztmndgmnqtkylggazdambqgyyde_640x960.jpg", 
+    "1f60k_iezdimdfmnqtkylggazdambqmmyde_640x951.jpg", 
+    "1f60k_iezdmzjrmrqtkylggazdambqmmyde_640x1025.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2wiojyg43denbqgazdambqhayde_480x604.jpg", 
+    "7ps_iezdenjrmy2toztdgezdambqmmyde_480x480.jpg"
+  ]
+}

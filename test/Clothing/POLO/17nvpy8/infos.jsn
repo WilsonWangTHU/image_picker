@@ -1,0 +1,40 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "细节": "刺绣", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,学院,商务,街头,基本款"
+  }, 
+  "price_now": "133.00", 
+  "price_origin": "190.00", 
+  "product_comment": "2", 
+  "product_name": "一丁良品\\韩版男士刺绣POLO衫", 
+  "product_sale": 3, 
+  "product_score": "5", 
+  "shop_images": [
+    "1j5tcd_ie2dkylcgzsgcytegazdambqgiyde_713x526.jpg", 
+    "1j5tcd_ie2wezjvhbsgcytegazdambqhayde_739x530.jpg", 
+    "1j5tcd_ie2tqmzwmjsgcytegazdambqhayde_652x477.jpg", 
+    "1j5tcd_ieztsnddg5swcytegazdambqgyyde_719x693.jpg", 
+    "1j5tcd_ie2dqzjumfswcytegazdambqgiyde_730x724.jpg", 
+    "1j5tcd_ie2tonzxmrswcytegazdambqhayde_741x560.jpg", 
+    "1j5tcd_ieywimdbgftgcytegazdambqmeyde_663x715.jpg", 
+    "1j5tcd_iezdozdgmjtgcytegazdambqmmyde_682x491.jpg", 
+    "1j5tcd_iezgmmdggeygeytegazdambqmmyde_704x727.jpg", 
+    "1j5tcd_ie2ggnbvguygeytegazdambqgiyde_754x602.jpg", 
+    "1j5tcd_iezdgmrxhaygeytegazdambqmmyde_704x563.jpg", 
+    "1j5tcd_iezwgolgheygeytegazdambqgyyde_641x752.jpg", 
+    "1j5tcd_iezwmzjrmqygeytegazdambqgyyde_726x544.jpg", 
+    "1j5tcd_iezggzdbmyygeytegazdambqmmyde_725x673.jpg", 
+    "1j5tcd_ieytomzwgqyweytegazdambqmeyde_640x694.jpg", 
+    "1j5tcd_ieywmnzwgqyweytegazdambqmeyde_640x724.jpg", 
+    "1j5tcd_ie2dim3fguyweytegazdambqgiyde_725x515.jpg", 
+    "1j5tcd_iezwenjwg4yweytegazdambqgyyde_645x724.jpg", 
+    "1j5tcd_ieytmztfheyweytegazdambqmeyde_685x735.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezginlbmjtdayjsgezdambqmmyde_480x847.jpg"
+  ]
+}

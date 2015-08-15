@@ -1,0 +1,26 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "细节": "拼接", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "基本款"
+  }, 
+  "price_now": "69.30", 
+  "price_origin": "99.00", 
+  "product_comment": "1", 
+  "product_name": "立体修身型小翻领男士polo衫", 
+  "product_sale": 10, 
+  "product_score": "5", 
+  "shop_images": [
+    "rfbkx_ie2dkodbg42tmnrrgazdambqgiyde_1000x1500.jpg", 
+    "rfbkx_ieytey3che2tmnrrgazdambqmeyde_1000x1500.jpg", 
+    "rfbkx_ie2tiobxmi2tmnrrgazdambqhayde_1000x1500.jpg", 
+    "rfbkx_ieyweobumq2tmnrrgazdambqmeyde_1000x1500.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieztondghfstgztfgazdambqgyyde_480x640.jpg", 
+    "7ps_ie2dgmdghfstgztfgazdambqgiyde_480x640.jpg"
+  ]
+}

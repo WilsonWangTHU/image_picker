@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "图案": "柠檬", 
+    "材质": "棉", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "领型": "翻领/Polo领", 
+    "风格": "学院,基本款,小清新,韩系,甜美"
+  }, 
+  "price_now": "66.50", 
+  "price_origin": "95.00", 
+  "product_comment": "12", 
+  "product_name": "MM柠檬情侣短袖polo衫", 
+  "product_sale": 89, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1iwh8g_ie2gentdgjqtgnlggazdambqgiyde_750x568.jpg", 
+    "1iwh8g_ie2wkyjrgnqtgnlggazdambqhayde_750x1208.jpg", 
+    "1iwh8g_iezdoobzgnqtgnlggazdambqmmyde_750x1196.jpg", 
+    "1iwh8g_ieytom3ggnqtgnlggazdambqmeyde_750x1236.jpg", 
+    "1iwh8g_ie2wmyrygrqtgnlggazdambqhayde_750x1207.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2tgyrrgu2dsmbvgezdambqhayde_480x640.jpg", 
+    "7ps_ie2dsyjrmrrgmmrugezdambqgiyde_480x359.jpg", 
+    "7ps_ie2dmzjsgu2dsmbvgezdambqgiyde_480x640.jpg"
+  ]
+}

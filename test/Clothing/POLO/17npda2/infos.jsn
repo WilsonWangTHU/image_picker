@@ -1,0 +1,45 @@
+{
+  "attrs": {
+    "图案": "格纹", 
+    "材质": "棉", 
+    "版型": "直身", 
+    "细节": "印花", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "领型": "圆领", 
+    "风格": "日韩,欧美,朋克,西部,嬉皮,复古,学院,运动,民族,商务,街头,基本款"
+  }, 
+  "price_now": "55.30", 
+  "price_origin": "79.00", 
+  "product_comment": "79", 
+  "product_name": "Pro 复古格子男士短袖T恤", 
+  "product_sale": 276, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hjsfj_iezdamtegntdey3dgazdambqmmyde_750x1150.jpg", 
+    "1hjsfj_ieztinztgrtdey3dgazdambqgyyde_750x1003.jpg", 
+    "1hjsfj_ieywgyzwgrtdey3dgazdambqmeyde_750x808.jpg", 
+    "1hjsfj_ieztmyrzgrtdey3dgazdambqgyyde_750x795.jpg", 
+    "1hjsfj_ieztondegrtdey3dgazdambqgyyde_750x621.jpg", 
+    "1hjsfj_ie2tkyjqgvtdey3dgazdambqhayde_750x887.jpg", 
+    "1hjsfj_ieytayrvgvtdey3dgazdambqmeyde_750x821.jpg", 
+    "1hjsfj_ieztgm3bgvtdey3dgazdambqgyyde_750x1107.jpg", 
+    "1hjsfj_ie2tcy3fgvtdey3dgazdambqhayde_750x644.jpg", 
+    "1hjsfj_iezdcobsgztdey3dgazdambqmmyde_750x661.jpg", 
+    "1hjsfj_ie2tazbwgztdey3dgazdambqhayde_750x814.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2diy3fgq3dkmjygizdambqgiyde_610x914.jpg", 
+    "7ps_ieztaztfgq3dkmjygizdambqgyyde_610x914.jpg", 
+    "7ps_ieywemlggq3dkmjygizdambqmeyde_610x914.jpg", 
+    "7ps_ie2dkndggq3dkmjygizdambqgiyde_610x914.jpg", 
+    "7ps_ie2dczbzgu4damrvgezdambqgiyde_480x602.jpg", 
+    "zv8sg_ieytkobygvswknjvgezdambqmeyde_480x640.jpg", 
+    "upload_ie2tmztfgi2dsylggazdambqhayde_480x360.jpg", 
+    "upload_ie2wgn3fge2tsylggazdambqhayde_480x783.jpg", 
+    "upload_ieywgzrxgfrtqylggazdambqmeyde_480x640.jpg", 
+    "upload_ie2tmmtfgu2doylggazdambqhayde_480x360.jpg", 
+    "19b0bi_ieytkyzqg5tdenjzgezdambqmeyde_480x640.jpg", 
+    "upload_ieztem3egu3wizjrgezdambqgyyde_480x640.jpg"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "attrs": {
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "风格": "日韩,学院,商务,基本款"
+  }, 
+  "price_now": "95.20", 
+  "price_origin": "136.00", 
+  "product_comment": "8", 
+  "product_name": "好衣府 韩版男士翻领短袖POLO衫", 
+  "product_sale": 21, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1jjojr_ie2genlggrstkmjugazdambqgiyde_750x1500.jpg", 
+    "1jjojr_ieywinrrg5stkmjugazdambqmeyde_750x1500.jpg", 
+    "1jjojr_ie2wmyjqmjstkmjugazdambqhayde_750x1244.jpg", 
+    "1jjojr_ie2dgndgmfstkmjugazdambqgiyde_750x1128.jpg", 
+    "1jjojr_iezwcmztmzstkmjugazdambqgyyde_750x921.jpg", 
+    "1jjojr_ieytcyrumzstkmjugazdambqmeyde_750x1134.jpg", 
+    "1jjojr_ie2tcnzvmzstkmjugazdambqhayde_750x876.jpg", 
+    "1jjojr_ieztmn3cgftdkmjugazdambqgyyde_750x912.jpg", 
+    "1jjojr_ie2tkytdgftdkmjugazdambqhayde_750x1299.jpg", 
+    "1jjojr_ie2dmnztgjtdkmjugazdambqgiyde_750x1044.jpg", 
+    "1jjojr_ie2tqylbgftdkmjugazdambqhayde_750x1062.jpg", 
+    "1jjojr_ie2ggyjug5tdkmjugazdambqgiyde_750x879.jpg", 
+    "1jjojr_iezdkmjvg5tdkmjugazdambqmmyde_750x945.jpg", 
+    "1jjojr_ieztgmlgmftdkmjugazdambqgyyde_750x786.jpg", 
+    "1jjojr_iezggztgmftdkmjugazdambqmmyde_750x1500.jpg", 
+    "1jjojr_iezdgobrmjtdkmjugazdambqmmyde_750x966.jpg", 
+    "1jjojr_ie2tmyjqmjtdkmjugazdambqhayde_750x927.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2wkmjqmfrdqyzsgezdambqhayde_480x853.jpg"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "attrs": {
+    "图案": "人物", 
+    "材质": "棉", 
+    "版型": "修身", 
+    "细节": "印花", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "领型": "圆领", 
+    "风格": "日韩,欧美,西部,嬉皮,复古,学院,运动,街头"
+  }, 
+  "price_now": "58.80", 
+  "price_origin": "84.00", 
+  "product_comment": "18", 
+  "product_name": "Pro 吸烟大叔印花短袖T恤", 
+  "product_sale": 57, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1hjsfj_iezwgn3bmvtgiylegazdambqgyyde_750x1125.jpg", 
+    "1hjsfj_iezgmylcmvtgiylegazdambqmmyde_750x500.jpg", 
+    "1hjsfj_ie2tkmdemvtgiylegazdambqhayde_750x500.jpg", 
+    "1hjsfj_ie2taodfmvtgiylegazdambqhayde_750x500.jpg", 
+    "1hjsfj_ie2gkobqmztgiylegazdambqgiyde_750x500.jpg", 
+    "1hjsfj_ieztemztmztgiylegazdambqgyyde_750x1125.jpg", 
+    "1hjsfj_ie2tozbvmztgiylegazdambqhayde_750x1125.jpg", 
+    "1hjsfj_ieytcnbxmztgiylegazdambqmeyde_750x500.jpg", 
+    "1hjsfj_ie2giyzymztgiylegazdambqgiyde_750x500.jpg", 
+    "1hjsfj_ie2dsnlcmztgiylegazdambqgiyde_750x1125.jpg", 
+    "1hjsfj_ie2dgntemztgiylegazdambqgiyde_750x1125.jpg", 
+    "1hjsfj_ie2teytgmztgiylegazdambqhayde_750x1125.jpg", 
+    "1hjsfj_ie2tmyzrgaygkylegazdambqhayde_750x500.jpg"
+  ], 
+  "user_images": [
+    "upload_iezggytbmnswizrsgezdambqmmyde_468x631.jpg", 
+    "upload_ieztcoldgi3gizrsgezdambqgyyde_480x640.jpg", 
+    "upload_ieytgnjymy4ginbtgezdambqmeyde_480x640.jpg", 
+    "upload_ie2tim3ggzqwizrsgezdambqhayde_468x624.jpg"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "attrs": {
+    "图案": "字母", 
+    "版型": "修身 ", 
+    "细节": "水洗", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 "
+  }, 
+  "price_now": "68.00", 
+  "price_origin": "97.14", 
+  "product_comment": "4", 
+  "product_name": "店主风 男士修身短袖Polo衫", 
+  "product_sale": 10, 
+  "product_score": "3.6", 
+  "shop_images": [
+    "1jot4c_ie2gcnbygq2gmmlbgazdambqgiyde_748x630.jpg", 
+    "1jot4c_ie2tsnjzgq2gmmlbgazdambqhayde_750x764.jpg", 
+    "1jot4c_ieytozdcgq2gmmlbgazdambqmeyde_750x627.jpg", 
+    "1jot4c_ie2wkm3fgq2gmmlbgazdambqhayde_750x573.jpg", 
+    "1jot4c_ieywimjrgu2gmmlbgazdambqmeyde_750x623.jpg", 
+    "1jot4c_iezwizrrgu2gmmlbgazdambqgyyde_750x812.jpg", 
+    "1jot4c_ieywcnztgu2gmmlbgazdambqmeyde_750x888.jpg", 
+    "1jot4c_ieytsyjugu2gmmlbgazdambqmeyde_750x898.jpg", 
+    "1jot4c_ie2wknjvgu2gmmlbgazdambqhayde_750x760.jpg", 
+    "1jot4c_ieytonbxgu2gmmlbgazdambqmeyde_750x796.jpg", 
+    "1jot4c_ie2dqojxgu2gmmlbgazdambqgiyde_750x922.jpg", 
+    "1jot4c_ie2tgojygu2gmmlbgazdambqhayde_750x748.jpg", 
+    "1jot4c_iezdqntbgu2gmmlbgazdambqmmyde_750x916.jpg", 
+    "1jot4c_ieztkmdcgu2gmmlbgazdambqgyyde_750x904.jpg", 
+    "1jot4c_ieytoy3dgu2gmmlbgazdambqmeyde_750x910.jpg", 
+    "1jot4c_iezwkztfgu2gmmlbgazdambqgyyde_750x1390.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2ginbtmm3tazdcgazdambqgiyde_480x640.jpg", 
+    "upload_iezdimjsmy3tazdcgazdambqmmyde_480x640.jpg"
+  ]
+}

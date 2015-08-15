@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "图案": "纯色", 
+    "版型": "修身 ", 
+    "细节": "撞色", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "时尚都市"
+  }, 
+  "price_now": "100.00", 
+  "price_origin": "125.00", 
+  "product_comment": "3", 
+  "product_name": "千兮男士纯棉修身翻领短袖polo衫", 
+  "product_sale": 5, 
+  "product_score": "5", 
+  "shop_images": [
+    "1ial0e_ieywmzbumrtggnzugezdambqmeyde_790x801.jpg", 
+    "1ial0e_ieztayzwmrtggnzugezdambqgyyde_790x703.jpg", 
+    "1ial0e_ie2gcmrymrtggnzugezdambqgiyde_790x866.jpg", 
+    "1ial0e_iezdmndbmrtggnzugezdambqmmyde_790x862.jpg", 
+    "1ial0e_ie2tcmtdmrtggnzugezdambqhayde_790x863.jpg", 
+    "1ial0e_iezdkzldmrtggnzugezdambqmmyde_790x880.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieywkmzxge2dmyrygizdambqmeyde_1080x806.jpg"
+  ]
+}

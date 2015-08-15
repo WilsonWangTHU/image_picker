@@ -1,0 +1,30 @@
+{
+  "attrs": {
+    "图案": "条纹", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,学院,街头"
+  }, 
+  "price_now": "78.40", 
+  "price_origin": "112.00", 
+  "product_comment": "63", 
+  "product_name": "【逸迈】夏季男士短袖POLO衫", 
+  "product_sale": 223, 
+  "product_score": "4.6", 
+  "shop_images": [
+    "1j5ho0_ie2gmobuhbswemtdgazdambqgiyde_790x920.jpg", 
+    "1j5ho0_iezdmndfhbswemtdgazdambqmmyde_790x628.jpg", 
+    "1j5ho0_ieztgytfhbswemtdgazdambqgyyde_790x1186.jpg", 
+    "1j5ho0_iezggmrxmjswemtdgazdambqmmyde_790x892.jpg", 
+    "1j5ho0_iezwgzbxmjswemtdgazdambqgyyde_790x1011.jpg", 
+    "1j5ho0_ie2doobzmjswemtdgazdambqgiyde_790x820.jpg", 
+    "1j5ho0_ie2wgzbrmrswemtdgazdambqhayde_790x1200.jpg", 
+    "1j5ho0_iezdiyzumrswemtdgazdambqmmyde_790x1117.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2diyrwgy3ggojzgezdambqgiyde_480x854.jpg", 
+    "4bu1f_ieztcojugqzwkyzwgezdambqgyyde_480x640.jpg"
+  ]
+}

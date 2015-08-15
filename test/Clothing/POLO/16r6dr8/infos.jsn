@@ -1,0 +1,35 @@
+{
+  "attrs": {
+    "图案": "兰博基尼", 
+    "版型": "修身 ", 
+    "细节": "贴布绣", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,欧美,运动,街头"
+  }, 
+  "price_now": "59.00", 
+  "price_origin": "73.75", 
+  "product_comment": "5", 
+  "product_name": "兰博基尼绣花立领POLO衫", 
+  "product_sale": 2, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1a93hb_ieztqylggu4tmnbrgazdambqgyyde_770x1054.jpg", 
+    "1a93hb_ie2tkzjtgy4tmnbrgazdambqhayde_770x1136.jpg", 
+    "1a93hb_ie2tombwgy4tmnbrgazdambqhayde_770x1112.jpg", 
+    "1a93hb_ieywmzrvgy4tmnbrgazdambqmeyde_770x1124.jpg", 
+    "1a93hb_iezgmn3cgu4tmnbrgazdambqmmyde_770x1159.jpg", 
+    "1a93hb_ie2tamzsmi4tmnbrgazdambqhayde_770x1119.jpg", 
+    "1a93hb_ie2tazrsmi4tmnbrgazdambqhayde_770x1119.jpg", 
+    "1a93hb_ieywimztmi4tmnbrgazdambqmeyde_770x1119.jpg", 
+    "1a93hb_ieztgojtmi4tmnbrgazdambqgyyde_768x949.jpg", 
+    "1a93hb_ieywczbrgbrdmnbrgazdambqmeyde_777x1156.jpg", 
+    "1a93hb_ieyteyjsgbrdmnbrgazdambqmeyde_777x1477.jpg", 
+    "1a93hb_ie2dcnrwgbrdmnbrgazdambqgiyde_777x1139.jpg", 
+    "1a93hb_ie2tgzrugbrdmnbrgazdambqhayde_777x1067.jpg"
+  ], 
+  "user_images": [
+    "upload_iezdcmjzgvsdenlggazdambqmmyde_480x800.jpg"
+  ]
+}

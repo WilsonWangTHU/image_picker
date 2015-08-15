@@ -1,0 +1,33 @@
+{
+  "attrs": {
+    "图案": "纯色", 
+    "版型": "修身 ", 
+    "细节": "绣花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,欧美,学院,商务,基本款"
+  }, 
+  "price_now": "77.00", 
+  "price_origin": "110.00", 
+  "product_comment": "13", 
+  "product_name": "夏季新款男士柠檬刺绣POLO衫", 
+  "product_sale": 51, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1hln03_ieywembsgmzgiy3bgazdambqmeyde_750x750.jpg", 
+    "1hln03_ieytkzbygqzgiy3bgazdambqmeyde_750x750.jpg", 
+    "1hln03_ie2wcodgguzgiy3bgazdambqhayde_750x750.jpg", 
+    "1hln03_ieztiojvg4zgiy3bgazdambqgyyde_750x750.jpg", 
+    "1hln03_ie2geztbhazgiy3bgazdambqgiyde_750x750.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieytkzlfmnqtqndggazdambqmeyde_480x640.jpg", 
+    "7ps_iezwmmdgmnqtqndggazdambqgyyde_480x640.jpg", 
+    "7ps_ie2dsndgmnqtqndggazdambqgiyde_480x640.jpg", 
+    "7ps_ie2danrxmmzdcndggazdambqgiyde_480x640.jpg", 
+    "7ps_ieytey3dhfsdky3fgazdambqmeyde_480x640.jpg", 
+    "6huwx_ieytsmzrgqytkzjugezdambqmeyde_480x640.jpg", 
+    "6huwx_ie2danbrhaytkzjugezdambqgiyde_480x640.jpg"
+  ]
+}

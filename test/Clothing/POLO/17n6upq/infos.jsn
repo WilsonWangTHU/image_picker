@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "图案": "字母,数字", 
+    "版型": "修身 ", 
+    "细节": "刺绣", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,学院,基本款"
+  }, 
+  "price_now": "64.00", 
+  "price_origin": "128.00", 
+  "product_comment": "6", 
+  "product_name": "爱潮依~数字刺绣修身短袖polo衫", 
+  "product_sale": 43, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hvveb_ieytmodbmi2wimtbgazdambqmeyde_750x824.jpg", 
+    "1hvveb_ieztinlemi2wimtbgazdambqgyyde_750x834.jpg", 
+    "1hvveb_iezwizjsmm2wimtbgazdambqgyyde_750x878.jpg", 
+    "1hvveb_ieywmodemm2wimtbgazdambqmeyde_750x867.jpg", 
+    "1hvveb_ie2tsyjqmq2wimtbgazdambqhayde_750x1080.jpg", 
+    "1hvveb_ie2dgzjymq2wimtbgazdambqgiyde_750x794.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2dgolegbswky3egazdambqgiyde_480x360.jpg"
+  ]
+}

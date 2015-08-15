@@ -1,0 +1,29 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "版型": "修身 ", 
+    "细节": "罗纹", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,复古,商务"
+  }, 
+  "price_now": "82.00", 
+  "price_origin": "", 
+  "product_comment": "44", 
+  "product_name": "OUY男装 修身棉质短袖polo衫", 
+  "product_sale": 109, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hvzyn_iezwkntggezwgntdmyytambqgyyde_800x1113.jpg"
+  ], 
+  "user_images": [
+    "1a3tv1_ie2tszbzgqytombwgezdambqhayde_480x647.jpg", 
+    "rd4qo_ieztmzrshftdkyzugezdambqgyyde_480x640.jpg", 
+    "1ksbix_ie2wkzjwgq2tsojrgezdambqhayde_540x960.jpg", 
+    "7ps_ie2tqy3dgqzteyrygezdambqhayde_480x640.jpg", 
+    "hfabk_ieztayjvmuzdqmjygezdambqgyyde_4928x3264.jpg", 
+    "hfabk_ie2gcy3bmizdqmjygezdambqgiyde_4928x3264.jpg", 
+    "hfabk_ieywknzwhezdqmjygezdambqmeyde_4928x3264.jpg"
+  ]
+}

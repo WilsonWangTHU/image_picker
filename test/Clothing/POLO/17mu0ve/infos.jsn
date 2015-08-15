@@ -1,0 +1,33 @@
+{
+  "attrs": {
+    "图案": "几何,十字架", 
+    "版型": "修身", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "面料材质": "棉", 
+    "风格": "基本款"
+  }, 
+  "price_now": "147.00", 
+  "price_origin": "210.00", 
+  "product_comment": "5", 
+  "product_name": "【一丁良品】精品男士短袖POLO衫", 
+  "product_sale": 16, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1j5tcd_ie2tqy3cgjqwmnjygazdambqhayde_739x801.jpg", 
+    "1j5tcd_iezwmnrxgrqwmnjygazdambqgyyde_652x763.jpg", 
+    "1j5tcd_ie2tqmrqgzqwmnjygazdambqhayde_711x686.jpg", 
+    "1j5tcd_iezdgzbtg5qwmnjygazdambqmmyde_716x491.jpg", 
+    "1j5tcd_ie2geoldhbqwmnjygazdambqgiyde_749x511.jpg", 
+    "1j5tcd_ie2tcyzzmfqwmnjygazdambqhayde_648x799.jpg", 
+    "1j5tcd_ieztanbwmnqwmnjygazdambqgyyde_654x803.jpg", 
+    "1j5tcd_ie2dimbrmvqwmnjygazdambqgiyde_643x788.jpg", 
+    "1j5tcd_ie2teodemvqwmnjygazdambqhayde_778x638.jpg", 
+    "1j5tcd_ieytinrvgbrgmnjygazdambqmeyde_647x773.jpg"
+  ], 
+  "user_images": [
+    "hetue_ieytmnlemy4ggzdcgezdambqmeyde_960x1280.jpg", 
+    "hetue_iezwkmrtmq4ggzdcgezdambqgyyde_960x1280.jpg", 
+    "hetue_iezdimtcmi4ggzdcgezdambqmmyde_960x1280.jpg"
+  ]
+}

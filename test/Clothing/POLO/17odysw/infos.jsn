@@ -1,0 +1,29 @@
+{
+  "attrs": {
+    "图案": "字母", 
+    "版型": "修身 ", 
+    "细节": "绣花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,基本款"
+  }, 
+  "price_now": "68.00", 
+  "price_origin": "97.14", 
+  "product_comment": "78", 
+  "product_name": "个性牛仔领男士polo衫", 
+  "product_sale": 533, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1mog72_iezgcmtemrsteojqgezdambqmmyde_750x1122.jpg", 
+    "1mog72_ie2dcyrvmzsteojqgezdambqgiyde_750x1238.jpg", 
+    "1mog72_ie2geodggbtdeojqgezdambqgiyde_750x1500.jpg", 
+    "1mog72_iezwcoldgjtdeojqgezdambqgyyde_750x1500.jpg", 
+    "1mog72_ie2dqnjzgrtdeojqgezdambqgiyde_750x1500.jpg", 
+    "1mog72_ieztknjsgztdeojqgezdambqgyyde_750x1500.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieztozbygezwmmjxgezdambqgyyde_480x360.jpg", 
+    "7ps_iezdonrthezdqnjwgezdambqmmyde_480x640.jpg"
+  ]
+}

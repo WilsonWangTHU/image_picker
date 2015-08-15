@@ -1,0 +1,31 @@
+{
+  "attrs": {
+    "图案": "老虎刺绣", 
+    "版型": "修身 ", 
+    "细节": "刺绣", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "68.60", 
+  "price_origin": "98.00", 
+  "product_comment": "12", 
+  "product_name": "潮者√老虎刺绣图案翻领polo衫", 
+  "product_sale": 15, 
+  "product_score": "5", 
+  "shop_images": [
+    "1kmsrz_ie2wen3ehbswimrsgezdambqhayde_880x942.jpg", 
+    "1kmsrz_iezdiolghbswimrsgezdambqmmyde_880x1080.jpg", 
+    "1kmsrz_ieywmnzvhfswimrsgezdambqmeyde_880x1500.jpg", 
+    "1kmsrz_ieywgzjwhfswimrsgezdambqmeyde_880x1043.jpg", 
+    "1kmsrz_iezdiojzhfswimrsgezdambqmmyde_880x1043.jpg", 
+    "1kmsrz_iezggoldhfswimrsgezdambqmmyde_880x999.jpg", 
+    "1kmsrz_ieytmylehfswimrsgezdambqmeyde_880x1043.jpg", 
+    "1kmsrz_iezwkmjrmfswimrsgezdambqgyyde_880x1153.jpg", 
+    "1kmsrz_ieztsojrmfswimrsgezdambqgyyde_880x577.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2dcmjrmiztozdggezdambqgiyde_480x641.jpg"
+  ]
+}

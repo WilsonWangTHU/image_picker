@@ -1,0 +1,31 @@
+{
+  "attrs": {
+    "图案": "数字", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "水洗,印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,学院,运动,商务,街头"
+  }, 
+  "price_now": "63.00", 
+  "price_origin": "90.00", 
+  "product_comment": "32", 
+  "product_name": "衣神前传春夏季新款男士短袖T恤", 
+  "product_sale": 3, 
+  "product_score": "5", 
+  "shop_images": [
+    "1ihfuv_iezwgmzyha2dgodgmyytambqgyyde_1000x606.jpg", 
+    "1ihfuv_ieytgy3gmi2dgodgmyytambqmeyde_1000x702.jpg", 
+    "1ihfuv_ieytky3emy2dgodgmyytambqmeyde_1000x1305.jpg", 
+    "1ihfuv_ie2tsojuge2tgodgmyytambqhayde_1000x1197.jpg", 
+    "1ihfuv_iezwmojxgm2tgodgmyytambqgyyde_1000x1221.jpg", 
+    "1ihfuv_ie2tonlcgy2tgodgmyytambqhayde_1000x1362.jpg", 
+    "1ihfuv_iezdsmrug42tgodgmyytambqmmyde_1000x1216.jpg", 
+    "1ihfuv_iezdkzdgg42tgodgmyytambqmmyde_1000x1154.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2tgmbzmm3tgzlbgazdambqhayde_480x640.jpg"
+  ]
+}

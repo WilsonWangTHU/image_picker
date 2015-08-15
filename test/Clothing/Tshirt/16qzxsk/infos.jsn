@@ -1,0 +1,53 @@
+{
+  "attrs": {
+    "图案": "细条纹", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,嬉皮,学院,街头"
+  }, 
+  "price_now": "49.00", 
+  "price_origin": "61.25", 
+  "product_comment": "140", 
+  "product_name": "原创彩条印花潮男纯棉短袖T恤", 
+  "product_sale": 451, 
+  "product_score": "4.5", 
+  "shop_images": [
+    "1a93hb_ieytczdbha3dknzqgazdambqmeyde_749x1475.jpg", 
+    "1a93hb_ieywcodcha3dknzqgazdambqmeyde_749x1489.jpg", 
+    "1a93hb_ieyteodfme3dknzqgazdambqmeyde_750x1466.jpg", 
+    "1a93hb_iezgky3fme3dknzqgazdambqmmyde_750x1486.jpg", 
+    "1a93hb_iezwkytbmm3dknzqgazdambqgyyde_750x984.jpg", 
+    "1a93hb_iezdkn3fmm3dknzqgazdambqmmyde_750x1494.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezteyrsmvtgkzbxgizdambqgyyde_750x564.jpg", 
+    "7ps_ieywkojygi2wmnjqgizdambqmeyde_480x640.jpg", 
+    "17gfey_ie2wizjwgeydoojzgezdambqhayde_480x640.jpg", 
+    "17gfey_ie2geobvgqydoojzgezdambqgiyde_480x640.jpg", 
+    "1mmoje_ie2gmyzshfrtsnrxgezdambqgiyde_480x360.jpg", 
+    "upload_ieywknjzga2dqmzqgezdambqmeyde_480x640.jpg", 
+    "upload_ieytamlbmfqtqnlggazdambqmeyde_480x854.jpg", 
+    "upload_ie2demjtmrqtqnlggazdambqgiyde_480x854.jpg", 
+    "upload_ie2tgnrzgbrdqnlggazdambqhayde_480x854.jpg", 
+    "7ps_ie2tmmlghbtdmntdgazdambqhayde_480x946.jpg", 
+    "7ps_ieztsnlbguzdgoddgazdambqgyyde_480x946.jpg", 
+    "7ps_ie2gcnbzge3tomtdgazdambqgiyde_480x640.jpg", 
+    "upload_ie2geylbga4dsmddgazdambqgiyde_480x758.jpg", 
+    "upload_iezdcobwmq4tsmddgazdambqmmyde_480x684.jpg", 
+    "upload_ie2dmmrvmiydezjzgazdambqgiyde_480x854.jpg", 
+    "upload_iezdkmrumztdczjzgazdambqmmyde_480x854.jpg", 
+    "7ps_ie2tkylbhftdoojygazdambqhayde_480x640.jpg", 
+    "7ps_iezwmmdchftdoojygazdambqgyyde_480x360.jpg", 
+    "upload_ie2wcyjtmi3toobygazdambqhayde_480x477.jpg", 
+    "upload_iezdazlegy4doobygazdambqmmyde_480x645.jpg", 
+    "7ps_iezdamtdgmydazbsgazdambqmmyde_480x640.jpg", 
+    "7ps_ieywgnddgmydazbsgazdambqmeyde_480x480.jpg", 
+    "upload_ieywcylbmi3wemlegazdambqmeyde_480x640.jpg", 
+    "u0rir_ie2tsolegu3wizrwgezdambqhayde_100x100.jpg", 
+    "upload_iezwknzyge3wmntegazdambqgyyde_480x640.jpg", 
+    "7ps_ie2dizlemu2dkztfgazdambqgiyde_480x640.jpg"
+  ]
+}

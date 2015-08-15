@@ -1,0 +1,45 @@
+{
+  "attrs": {
+    "图案": "字母", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "水洗", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,嬉皮,学院,街头"
+  }, 
+  "price_now": "69.00", 
+  "price_origin": "86.25", 
+  "product_comment": "82", 
+  "product_name": "水洗做旧复古字母男士短袖T恤", 
+  "product_sale": 59, 
+  "product_score": "4.3", 
+  "shop_images": [
+    "1a93hb_iezwcntdmeztiylgmyytambqgyyde_750x1051.jpg", 
+    "1a93hb_ieytsnrqmiztiylgmyytambqmeyde_750x1143.jpg", 
+    "1a93hb_ieywczrqmiztiylgmyytambqmeyde_750x1120.jpg", 
+    "1a93hb_ieytmnzrmiztiylgmyytambqmeyde_750x998.jpg", 
+    "1a93hb_iezdgnjtmiztiylgmyytambqmmyde_750x1308.jpg", 
+    "1a93hb_ie2tmyjtmiztiylgmyytambqhayde_750x739.jpg", 
+    "1a93hb_ieywgzjqmyztiylgmyytambqmeyde_749x891.jpg", 
+    "1a93hb_ieytazjqgy2diylgmyytambqmeyde_750x1139.jpg", 
+    "1a93hb_ieztqm3fgu2diylgmyytambqgyyde_750x1104.jpg", 
+    "1a93hb_iezgmzbrgy2diylgmyytambqmmyde_750x1097.jpg", 
+    "1a93hb_ieywknjsgy2diylgmyytambqmeyde_750x1096.jpg", 
+    "1a93hb_ieztaodggu2diylgmyytambqgyyde_750x1083.jpg", 
+    "1a93hb_ieytambvgy2diylgmyytambqmeyde_750x1329.jpg", 
+    "1a93hb_iezgmzrwgy2diylgmyytambqmmyde_750x1216.jpg", 
+    "1a93hb_iezdoojxgy2diylgmyytambqmmyde_750x1366.jpg"
+  ], 
+  "user_images": [
+    "upload_iezwgmrwgmztkzjqgezdambqgyyde_480x640.jpg", 
+    "upload_ie2tmzbrmfswiyldgazdambqhayde_480x853.jpg", 
+    "upload_ie2tmzdfmzrdiolbgazdambqhayde_480x355.jpg", 
+    "upload_ieztmzdfgfrtiolbgazdambqgyyde_480x355.jpg", 
+    "upload_ieztoy3fgnrtiolbgazdambqgyyde_480x355.jpg", 
+    "7ps_ieztgnlcgvtdsodbgazdambqgyyde_480x640.jpg", 
+    "7ps_ieytgobxmq4timrtgazdambqmeyde_480x360.jpg", 
+    "upload_ieztimzqgfrwiyjwgazdambqgyyde_480x640.jpg"
+  ]
+}

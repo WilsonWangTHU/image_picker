@@ -1,0 +1,35 @@
+{
+  "attrs": {
+    "图案": "几何,波普", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "水洗,撞色", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,学院,基本款"
+  }, 
+  "price_now": "49.50", 
+  "price_origin": "90.00", 
+  "product_comment": "42", 
+  "product_name": "韩风style夏季新款男士短袖T恤", 
+  "product_sale": 28, 
+  "product_score": "4.3", 
+  "shop_images": [
+    "1iqfrs_ieztcmjzg44genrugazdambqgyyde_800x400.jpg", 
+    "1iqfrs_ie2wkn3cme4dsyzqgazdambqhayde_1000x1152.jpg", 
+    "1iqfrs_iezdqmlfgm4tsyzqgazdambqmmyde_1000x1350.jpg", 
+    "1iqfrs_ie2wgzjqgy4tsyzqgazdambqhayde_1000x1174.jpg", 
+    "1iqfrs_ie2dqmjtha4tsyzqgazdambqgiyde_1000x1024.jpg", 
+    "1iqfrs_iezwcnbwme4tsyzqgazdambqgyyde_1000x1197.jpg", 
+    "1iqfrs_ie2dqndcmm4tsyzqgazdambqgiyde_1000x1254.jpg", 
+    "1iqfrs_ieywizjymu4tsyzqgazdambqmeyde_1000x1200.jpg", 
+    "1iqfrs_ieztmnbxgbqtsyzqgazdambqgyyde_1000x1192.jpg"
+  ], 
+  "user_images": [
+    "upload_iezdoztfgazwgnbzgazdambqmmyde_459x816.jpg", 
+    "upload_iezwgztfg4zwgnbzgazdambqgyyde_459x816.jpg", 
+    "upload_ieytcmdbmuygezrygazdambqmeyde_480x270.jpg", 
+    "upload_ieywczdggvsdsnbygazdambqmeyde_480x360.jpg"
+  ]
+}

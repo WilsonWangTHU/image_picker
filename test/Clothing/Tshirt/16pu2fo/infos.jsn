@@ -1,0 +1,42 @@
+{
+  "attrs": {
+    "图案": "几何", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 "
+  }, 
+  "price_now": "49.00", 
+  "price_origin": "98.00", 
+  "product_comment": "35", 
+  "product_name": "KINGBAND民族风圆领纯棉短袖t恤", 
+  "product_sale": 68, 
+  "product_score": "4.7", 
+  "shop_images": [
+    "1hw0i6_iezwgyrthaydomzwmyytambqgyyde_790x947.jpg", 
+    "1hw0i6_iezgmmbwhaydomzwmyytambqmmyde_790x746.jpg", 
+    "1hw0i6_ieytcyrzhaydomzwmyytambqmeyde_790x851.jpg", 
+    "1hw0i6_iezwiytehaydomzwmyytambqgyyde_790x846.jpg", 
+    "1hw0i6_ieytantfhaydomzwmyytambqmeyde_790x1011.jpg", 
+    "1hw0i6_ie2winzrheydomzwmyytambqhayde_790x779.jpg", 
+    "1hw0i6_ie2gknbtheydomzwmyytambqgiyde_790x665.jpg", 
+    "1hw0i6_ie2tqojwheydomzwmyytambqhayde_790x895.jpg", 
+    "1hw0i6_ie2wgzjxheydomzwmyytambqhayde_790x840.jpg", 
+    "1hw0i6_ie2tamrxmeydomzwmyytambqhayde_790x784.jpg", 
+    "1hw0i6_ieytsyrumeydomzwmyytambqmeyde_790x866.jpg", 
+    "1hw0i6_ieywiyrvmeydomzwmyytambqmeyde_790x930.jpg", 
+    "1hw0i6_ieytkyrwmeydomzwmyytambqmeyde_790x874.jpg", 
+    "1hw0i6_iezgcmjxmeydomzwmyytambqmmyde_790x1045.jpg", 
+    "1hw0i6_ieywinjymeydomzwmyytambqmeyde_790x860.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezwcndcmfswcyzwgizdambqgyyde_1242x1659.jpg", 
+    "upload_ie2dazrsgm2tsojsgezdambqgiyde_480x648.jpg", 
+    "upload_ieztgzjxgu2tsojsgezdambqgyyde_480x648.jpg", 
+    "upload_ieywkzrumqzdomzsgezdambqmeyde_480x640.jpg", 
+    "upload_ie2dsnbxmyzdomzsgezdambqgiyde_480x640.jpg", 
+    "upload_ieytcmzrgiztomzsgezdambqmeyde_480x640.jpg"
+  ]
+}

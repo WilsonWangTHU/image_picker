@@ -1,0 +1,25 @@
+{
+  "attrs": {
+    "图案": "卡通,海贼王", 
+    "材质": "棉 ", 
+    "版型": "宽松 ", 
+    "细节": "水洗,印花", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,学院,运动,街头"
+  }, 
+  "price_now": "59.50", 
+  "price_origin": "85.00", 
+  "product_comment": "5", 
+  "product_name": "海贼王短袖T恤", 
+  "product_sale": 9, 
+  "product_score": "5", 
+  "shop_images": [
+    "1houi4_ieywcmldguztgnrsgazdambqmeyde_640x960.jpg", 
+    "1houi4_ie2deoddmfqtmmdfmyytambqgiyde_640x753.jpg"
+  ], 
+  "user_images": [
+    "upload_iezweztemfqtozrvgazdambqgyyde_480x647.jpg"
+  ]
+}

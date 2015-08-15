@@ -1,0 +1,32 @@
+{
+  "attrs": {
+    "图案": "纯色", 
+    "材质": "棉", 
+    "版型": "修身", 
+    "袖长": "短袖", 
+    "领型": "圆领", 
+    "风格": "基本款"
+  }, 
+  "price_now": "39.20", 
+  "price_origin": "56.00", 
+  "product_comment": "149", 
+  "product_name": "syc男士男装 纯棉 T恤", 
+  "product_sale": 280, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "3oanj_ieztemdemezdsojygazdambqgyyde_640x960.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezdoytfgm3gkntegazdambqmmyde_480x641.jpg", 
+    "upload_ieytsnjsgrtdqmtcgazdambqmeyde_480x640.jpg", 
+    "upload_ie2dqnjyhbtdqmtcgazdambqgiyde_480x640.jpg", 
+    "upload_ieywcnjxmmydsmtcgazdambqmeyde_480x640.jpg", 
+    "7ps_ie2giztgmq2day3bgazdambqgiyde_480x641.jpg", 
+    "7ps_ieztmzrqmzrgmzrygazdambqgyyde_480x854.jpg", 
+    "upload_iezwiyjxgyzggyjrgezdambqgyyde_480x480.jpg", 
+    "upload_iezdky3dhfrggntdgazdambqmmyde_480x640.jpg", 
+    "upload_iezgizrvgm2wmmzygazdambqmmyde_480x640.jpg", 
+    "upload_ie2dgmjtmi2wmmzygazdambqgiyde_480x640.jpg", 
+    "upload_iezgendehfsdayjtgezdambqmmyde_480x640.jpg"
+  ]
+}

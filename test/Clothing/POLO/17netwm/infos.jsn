@@ -1,0 +1,46 @@
+{
+  "attrs": {
+    "图案": "人物,字母,logo", 
+    "版型": "修身 ", 
+    "细节": "印花,拼接,包边", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,欧美,朋克,嬉皮,复古,学院,街头,基本款"
+  }, 
+  "price_now": "69.30", 
+  "price_origin": "99.00", 
+  "product_comment": "4", 
+  "product_name": "AA潮男印花Polo衫", 
+  "product_sale": 20, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1j9l6a_iezdmylggbrdqm3cgazdambqmmyde_641x961.jpg", 
+    "1j9l6a_iezgkzdggfrdqm3cgazdambqmmyde_641x961.jpg", 
+    "1j9l6a_ieztqnjsgnrdqm3cgazdambqgyyde_641x447.jpg", 
+    "1j9l6a_iezgknzugrrdqm3cgazdambqmmyde_641x447.jpg", 
+    "1j9l6a_ie2giobtmvtdqm3cgazdambqgiyde_641x961.jpg", 
+    "1j9l6a_ieytqzbtmztdqm3cgazdambqmeyde_641x961.jpg", 
+    "1j9l6a_ieytsnzugaydsm3cgazdambqmeyde_641x479.jpg", 
+    "1j9l6a_ie2dcnzsgeydsm3cgazdambqgiyde_641x961.jpg", 
+    "1j9l6a_ie2tcmjtgiydsm3cgazdambqhayde_641x961.jpg", 
+    "1j9l6a_ie2doodbgmydsm3cgazdambqgiyde_641x961.jpg", 
+    "1j9l6a_ie2dkoleguydsm3cgazdambqgiyde_641x961.jpg", 
+    "1j9l6a_iezwmobxhaydsm3cgazdambqgyyde_641x961.jpg", 
+    "1j9l6a_ieztendeheydsm3cgazdimbqgyyde_641x448.jpg", 
+    "1j9l6a_ieywmmztmiydsm3cgazdambqmeyde_641x449.jpg", 
+    "1j9l6a_ie2dayjvmmydsm3cgazdambqgiyde_641x961.jpg", 
+    "1j9l6a_iezwezbwmqydsm3cgazdambqgyyde_641x961.jpg", 
+    "1j9l6a_ieztsmzzmyydsm3cgazdambqgyyde_641x961.jpg", 
+    "1j9l6a_ie2wem3fgaytsm3cgazdambqhayde_641x449.jpg", 
+    "1j9l6a_ie2tczrqgiytsm3cgazdambqhayde_641x448.jpg", 
+    "1j9l6a_ieytgnbwgmytsm3cgazdambqmeyde_641x961.jpg", 
+    "1j9l6a_iezwcyjqguytsm3cgazdambqgyyde_641x961.jpg", 
+    "1j9l6a_iezgem3egyytsm3cgazdambqmmyde_641x961.jpg", 
+    "1j9l6a_iezwmzjsmeytsm3cgazdambqgyyde_641x961.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieywinlgg5rwemjzgizdambqmeyde_1080x1440.jpg", 
+    "7ps_ieytkmjshbrwemjzgizdambqmeyde_1080x1440.jpg"
+  ]
+}

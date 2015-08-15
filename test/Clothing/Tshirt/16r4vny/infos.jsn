@@ -1,0 +1,38 @@
+{
+  "attrs": {
+    "图案": "细条纹,字母", 
+    "材质": "棉 ", 
+    "版型": "修身 ", 
+    "细节": "水洗,拼接", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "领型": "圆领 ", 
+    "风格": "日韩,欧美,嬉皮,学院,街头"
+  }, 
+  "price_now": "110.40", 
+  "price_origin": "138.00", 
+  "product_comment": "5", 
+  "product_name": "做旧撞色拼接印花潮男休闲T恤", 
+  "product_sale": 5, 
+  "product_score": "2.5", 
+  "shop_images": [
+    "1a93hb_ie2tmylggbrdcmrrgazdambqhayde_750x1013.jpg", 
+    "1a93hb_ieztiobqgfrdcmrrgazdambqgyyde_750x1237.jpg", 
+    "1a93hb_iezdcy3cgbrdcmrrgazdambqmmyde_750x1162.jpg", 
+    "1a93hb_ie2weojrgfrdcmrrgazdambqhayde_750x1140.jpg", 
+    "1a93hb_ieztamzugfrdcmrrgazdambqgyyde_750x1381.jpg", 
+    "1a93hb_ie2wizrvgfrdcmrrgazdambqhayde_750x1011.jpg", 
+    "1a93hb_ieytamrxgfrdcmrrgazdambqmeyde_750x1063.jpg", 
+    "1a93hb_iezwgmbzgfrdcmrrgazdambqgyyde_750x1158.jpg", 
+    "1a93hb_iezgmyrugfrdcmrrgazdambqmmyde_750x1348.jpg", 
+    "1a93hb_iezwinldgfrdcmrrgazdambqgyyde_750x1348.jpg", 
+    "1a93hb_iezgeyrygzrdcmrrgazdambqmmyde_750x1291.jpg", 
+    "1a93hb_iezdkzlcgzrdcmrrgazdambqmmyde_750x1204.jpg", 
+    "1a93hb_ie2tanzqg5rdcmrrgazdambqhayde_750x1286.jpg", 
+    "1a93hb_ie2tknrtg5rdcmrrgazdambqhayde_750x1302.jpg", 
+    "1a93hb_ieytqy3ggzrdcmrrgazdambqmeyde_1000x1500.jpg"
+  ], 
+  "user_images": [
+    "7ps_ieytomzwgeyggntegazdambqmeyde_480x641.jpg"
+  ]
+}

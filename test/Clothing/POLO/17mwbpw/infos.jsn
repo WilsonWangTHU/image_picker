@@ -1,0 +1,41 @@
+{
+  "attrs": {
+    "图案": "人物", 
+    "材质": "棉", 
+    "版型": "直身", 
+    "袖型": "常规袖", 
+    "袖长": "短袖", 
+    "领型": "圆领", 
+    "风格": "日韩"
+  }, 
+  "price_now": "66.50", 
+  "price_origin": "95.00", 
+  "product_comment": "1", 
+  "product_name": "一丁良品\\卡通男士短袖T恤", 
+  "product_sale": 6, 
+  "product_score": "5", 
+  "shop_images": [
+    "1j5tcd_ie2taojug44tsyjygazdambqhayde_880x603.jpg", 
+    "1j5tcd_iezdsylgha4tsyjygazdambqmmyde_880x634.jpg", 
+    "1j5tcd_ieztqnlcme4tsyjygazdambqgyyde_880x978.jpg", 
+    "1j5tcd_ie2dsmdbmi4tsyjygazdambqgiyde_880x583.jpg", 
+    "1j5tcd_iezgcmzwmm4tsyjygazdambqmmyde_880x580.jpg", 
+    "1j5tcd_ieytozjvmq4tsyjygazdambqmeyde_880x653.jpg", 
+    "1j5tcd_ie2tsyjxmu4tsyjygazdambqhayde_880x660.jpg", 
+    "1j5tcd_ieztcojwmy4tsyjygazdambqgyyde_880x892.jpg", 
+    "1j5tcd_iezwgnzrgfqtsyjygazdambqgyyde_880x1049.jpg", 
+    "1j5tcd_ieywmobugjqtsyjygazdambqmeyde_880x834.jpg", 
+    "1j5tcd_ieytqnrsgnqtsyjygazdambqmeyde_880x1030.jpg", 
+    "1j5tcd_ieztazbugrqtsyjygazdambqgyyde_880x1047.jpg", 
+    "1j5tcd_ie2dszlfgrqtsyjygazdambqgiyde_880x614.jpg", 
+    "1j5tcd_ie2dgmjtgzqtsyjygazdambqgiyde_880x1115.jpg", 
+    "1j5tcd_ie2tcztegzqtsyjygazdambqhayde_880x658.jpg", 
+    "1j5tcd_ie2wim3cg5qtsyjygazdambqhayde_880x1043.jpg", 
+    "1j5tcd_ie2dqnzzhbqtsyjygazdambqgiyde_880x1024.jpg", 
+    "1j5tcd_iezdambwhfqtsyjygazdambqmmyde_880x1051.jpg", 
+    "1j5tcd_ieztknzvmfqtsyjygazdambqgyyde_880x1022.jpg"
+  ], 
+  "user_images": [
+    "7ps_iezwmyrwgu3gcytbgazdambqgyyde_480x360.jpg"
+  ]
+}

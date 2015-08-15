@@ -1,0 +1,30 @@
+{
+  "attrs": {
+    "图案": "粗条纹", 
+    "版型": "直身 ", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩"
+  }, 
+  "price_now": "63.00", 
+  "price_origin": "90.00", 
+  "product_comment": "66", 
+  "product_name": "韩版新款条纹大码短袖polo衫", 
+  "product_sale": 229, 
+  "product_score": "4.8", 
+  "shop_images": [
+    "1hw86s_ieztayztmnsdmmjtgazdambqgyyde_640x960.jpg", 
+    "1hw86s_ieytgnzwgu3tizdbgazdambqmeyde_640x960.jpg"
+  ], 
+  "user_images": [
+    "upload_ie2tcmbygrtgknjugezdambqhayde_480x800.jpg", 
+    "upload_ieztmmjrhbtgknjugezdambqgyyde_480x800.jpg", 
+    "upload_iezdaojtg4ytqzjrgezdambqmmyde_480x848.jpg", 
+    "upload_iezgmnrumm2tozjrgezdambqmmyde_357x400.jpg", 
+    "upload_iezdmyrsgq4tmzjrgezdambqmmyde_224x395.jpg", 
+    "7ps_iezwcntbgu4dom3bgazdambqgyyde_480x640.jpg", 
+    "7ps_ieytmmtdgu4dom3bgazdambqmeyde_480x640.jpg", 
+    "7ps_ie2wknldgu4dom3bgazdambqhayde_480x640.jpg"
+  ]
+}

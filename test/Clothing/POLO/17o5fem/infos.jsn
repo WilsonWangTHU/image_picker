@@ -1,0 +1,27 @@
+{
+  "attrs": {
+    "图案": "卡通", 
+    "版型": "修身 ", 
+    "细节": "水洗", 
+    "袖型": "常规袖 ", 
+    "袖长": "短袖 ", 
+    "面料材质": "棉 ", 
+    "风格": "日韩,运动,大码"
+  }, 
+  "price_now": "75.60", 
+  "price_origin": "108.00", 
+  "product_comment": "17", 
+  "product_name": "【CN】精致大码纯棉短袖polo杉", 
+  "product_sale": 71, 
+  "product_score": "4.9", 
+  "shop_images": [
+    "1hjig3_ie2diobtgftdontggazdambqgiyde_640x960.jpg", 
+    "1hjig3_ie2tenjugftdontggazdambqhayde_800x1200.jpg", 
+    "1hjig3_ie2dkmbvgftdontggazdambqgiyde_640x960.jpg"
+  ], 
+  "user_images": [
+    "7ps_ie2tem3dgu4ggyjwgezdambqhayde_480x640.jpg", 
+    "7ps_iezwczldgu4ggyjwgezdambqgyyde_480x640.jpg", 
+    "7ps_ieytomlegu4ggyjwgezdambqmeyde_480x640.jpg"
+  ]
+}
